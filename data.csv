@@ -1,0 +1,811 @@
+   State/UT,   Year,                         Causes, Education_status,       Means adopted,     Professional_Profile,   Social_Status,Gender,Age_group,Number of suicides
+A & N Islands,2001,Illness (Aids/STD),Primary,No,Student,Never Married,F,0-14,0
+A & N Islands,2001,Bankruptcy or Sudden change in Economic,Primary,No,Student,Never Married,F,0-14,0
+A & N Islands,2001,Cancellation/Non-Settlement of Marriage,Middle,No,Student,Never Married,F,0-14,0
+A & N Islands,2001,Physical Abuse (Rape/Incest Etc.)	,Primary,No,Student,Never Married,F,0-14,0
+A & N Islands,2001,Dowry Dispute,Middle,No,Student,Never Married,F,0-14,0
+A & N Islands,2001,Family Problems,Primary,No,Student,Never Married,F,0-14,0
+A & N Islands,2001,Ideological Causes/Hero Worshipping,Middle,No,Student,Never Married,F,0-14,0
+A & N Islands,2001,Other Prolonged Illness,Primary,No,Student,Never Married,F,0-14,0
+A & N Islands,2001,Property Dispute,Primary,No,Student,Never Married,F,0-14,0
+A & N Islands,2001,Fall in Social Reputation,Primary,No,Student,Never Married,F,0-14,0
+A & N Islands,2001,Illegitimate Pregnancy,Middle,No,Student,Never Married,F,0-14,0
+A & N Islands,2001,Failure in Examination,Primary,No,Student,Never Married,F,0-14,0
+A & N Islands,2001,Insanity/Mental Illness,Primary,No,Student,Never Married,F,0-14,0
+A & N Islands,2001,Love Affairs,Primary,By Hanging,Student,Never Married,F,0-14,1
+A & N Islands,2001,Professional/Career Problem,Primary,No,Student,Never Married,F,0-14,0
+A & N Islands,2001,Divorce,No Education,No,House Wife,Divorcee,F,0-14,0
+A & N Islands,2001,Drug Abuse/Addiction,No Education,No,Farming/Agriculture Activity,Never Married,F,0-14,0
+A & N Islands,2001,Not having Children(Barrenness/Impotency,No Education,No,Farming/Agriculture Activity,Widowed,F,0-14,0
+A & N Islands,2001,Causes Not known,No Education,No,Others (Please Specify) or Public Sector Undertaking,Never Married,F,0-14,0
+A & N Islands,2001,Unemployment,No Education,No,Unemployed,Never Married,F,0-14,0
+A & N Islands,2001,Other Causes (Please Specity),Secondary,By Hanging,Student,Never Married,F,0-14,1
+A & N Islands,2001,Poverty,No Education,No,Farming/Agriculture Activity,Married,F,0-14,0
+A & N Islands,2001,Death of Dear Person,No Education,No,Others (Please Specify) or Public Sector Undertaking,Married,F,0-14,0
+A & N Islands,2001,Cancer,Primary,No,Professional Activity,Married,F,0-14,0
+A & N Islands,2001,Suspected/Illicit Relation,No Education,No,House Wife,Married,F,0-14,0
+A & N Islands,2001,Paralysis,No Education,No,Others (Please Specify) or Public Sector Undertaking,Never Married,F,0-14,0
+A & N Islands,2001,Property Dispute,Primary,No,House Wife,Divorcee,M,0-14,0
+A & N Islands,2001,Unemployment,No Education,No,Unemployed,Never Married,M,0-14,0
+A & N Islands,2001,Poverty,No Education,No,Farming/Agriculture Activity,Married,M,0-14,0
+A & N Islands,2001,Family Problems,No Education,No,Farming/Agriculture Activity,Married,M,0-14,0
+A & N Islands,2001,Illness (Aids/STD),Primary,No,Student,Never Married,M,0-14,0
+A & N Islands,2001,Drug Abuse/Addiction,No Education,No,Farming/Agriculture Activity,Never Married,M,0-14,0
+A & N Islands,2001,Other Prolonged Illness,Middle,By Hanging,Others (Please Specify) or Public Sector Undertaking,Married,M,0-14,1
+A & N Islands,2001,Death of Dear Person,Primary,No,Others (Please Specify) or Public Sector Undertaking,Married,M,0-14,0
+A & N Islands,2001,Other Causes (Please Specity),Primary,No,Others (Please Specify) or Public Sector Undertaking,Married,M,0-14,0
+A & N Islands,2001,Cancer,Middle,No,Professional Activity,Married,M,0-14,0
+A & N Islands,2001,Not having Children(Barrenness/Impotency,No Education,No,Farming/Agriculture Activity,Widowed,M,0-14,0
+A & N Islands,2001,Cancellation/Non-Settlement of Marriage,Middle,No,Others (Please Specify) or Public Sector Undertaking,Divorcee,M,0-14,0
+A & N Islands,2001,Causes Not known,Primary,No,Others (Please Specify) or Public Sector Undertaking,Married,M,0-14,0
+A & N Islands,2001,Paralysis,No Education,No,Others (Please Specify) or Public Sector Undertaking,Never Married,M,0-14,0
+A & N Islands,2001,Physical Abuse (Rape/Incest Etc.),Primary,No,Student,Never Married,M,0-14,0
+A & N Islands,2001,Professional/Career Problem,Middle,No,Student,Never Married,M,0-14,0
+A & N Islands,2001,Love Affairs,Middle,No,Student,Never Married,M,0-14,0
+A & N Islands,2001,Fall in Social Reputation,Primary,No,Student,Never Married,M,0-14,0
+A & N Islands,2001,Dowry Dispute,Middle,No,Student,Never Married,M,0-14,0
+A & N Islands,2001,Ideological Causes/Hero Worshipping,Middle,No,Student,Never Married,M,0-14,0
+A & N Islands,2001,Illegitimate Pregnancy,No Education,No,Unemployed,Married,M,0-14,0
+A & N Islands,2001,Failure in Examination,Primary,By Hanging,Student,Never Married,M,0-14,1
+A & N Islands,2001,Bankruptcy or Sudden change in Economic,Primary,No,Student,Never Married,M,0-14,0
+A & N Islands,2001,Insanity/Mental Illness,Primary,No,Student,Never Married,M,0-14,0
+A & N Islands,2001,Divorce,No Education,No,House Wife,Divorcee,M,0-14,0
+A & N Islands,2001,Suspected/Illicit Relation,No Education,No,House Wife,Married,M,0-14,0
+A & N Islands,2001,Suspected/Illicit Relation,Diploma,No,Self Employed,Divorcee,F,15-29,0
+A & N Islands,2001,Illegitimate Pregnancy,Graduate,No,Professional Activity,Divorcee,F,15-29,0
+A & N Islands,2001,Other Prolonged Illness,Middle,By Hanging,House Wife,Married,F,15-29,8
+A & N Islands,2001,Causes Not known,Middle,By Hanging,House Wife ,Married,F,15-29,8
+A & N Islands,2001,Bankruptcy or Sudden change in Economic,Graduate,No,Public Sector Undertaking,Widowed,F,15-29,0
+A & N Islands,2001,Cancer,Graduate,No,Professional Activity,Seperated,F,15-29,0
+A & N Islands,2001,Professional/Career Problem,Diploma,No,Professional Activity,Seperated,F,15-29,0
+A & N Islands,2001,Property Dispute,Graduate,No,Public Sector Undertaking,Seperated,F,15-29,0
+A & N Islands,2001,Cancellation/Non-Settlement of Marriage,Diploma,No,Service (Private),Widowed,F,15-29,0
+A & N Islands,2001,Ideological Causes/Hero Worshipping,Hr. Secondary,No,Self Employed,Seperated,F,15-29,0
+A & N Islands,2001,Illness (Aids/STD),Hr. Secondary,No,Service (Private),Seperated,F,15-29,0
+A & N Islands,2001,Other Causes (Please Specity),Primary,By Hanging or By Fire/Self Immolation,House Wife or Others,Never Married,F,15-29,6
+A & N Islands,2001,Paralysis,Post Graduate,No,Professional Activity,Seperated,F,15-29,0
+A & N Islands,2001,Love Affairs,Hr. Secondary,No,Professional Activity,Seperated,F,15-29,0
+A & N Islands,2001,Poverty,Diploma,No,Farming/Agriculture Activity,Widowed,F,15-29,0
+A & N Islands,2001,Death of Dear Person,Post Graduate,No,Self Employed,Divorcee,F,15-29,0
+A & N Islands,2001,Dowry Dispute,Post Graduate,No,Farming/Agriculture Activity,Divorcee,F,15-29,0
+A & N Islands,2001,Family Problems,Middle,By Consuming Other Poison,Student,Married,F,15-29,5
+A & N Islands,2001,Fall in Social Reputation,Diploma,No,Service (Goverment),Seperated,F,15-29,0
+A & N Islands,2001,Physical Abuse (Rape/Incest Etc.),Hr. Secondary,No,Farming/Agriculture Activity,Seperated,F,15-29,0
+A & N Islands,2001,Failure in Examination,No Education,By Consuming Other Poison,Student,Never Married,F,15-29,2
+A & N Islands,2001,Divorce,Post Graduate,No,Professional Activity,Divorcee,F,15-29,0
+A & N Islands,2001,Unemployment,Post Graduate,No,Service (Private),Widowed,F,15-29,0
+A & N Islands,2001,Drug Abuse/Addiction,Graduate,No,Professional Activity,Seperated,F,15-29,0
+A & N Islands,2001,Not having Children(Barrenness/Impotency,Post Graduate,No,Self Employed,Widowed,F,15-29,0
+A & N Islands,2001,Insanity/Mental Illness,No Education,By Consuming Other Poison,Student,Never Married,F,15-29,2
+A & N Islands,2001,Cancer,Post Graduate,No,Professional Activity,Seperated,M,15-29,0
+A & N Islands,2001,Illegitimate Pregnancy,Diploma,No,Professional Activity,Seperated,M,15-29,0
+A & N Islands,2001,Other Causes (Please Specity),Middle,By Consuming Other Poison,Others ,Never Married,M,15-29,4
+A & N Islands,2001,Other Prolonged Illness,Primary,By Hanging,Service (Government),Never Married,M,15-29,3
+A & N Islands,2001,Physical Abuse (Rape/Incest Etc.),Diploma,No,Retired Person,Seperated,M,15-29,0
+A & N Islands,2001,Professional/Career Problem,Post Graduate,No,Professional Activity,Divorcee,M,15-29,0
+A & N Islands,2001,Bankruptcy or Sudden change in Economic,Post Graduate,No,Unemployement,Divorcee,M,15-29,0
+A & N Islands,2001,Drug Abuse/Addiction,Diploma,No,Retired Person,Seperated,M,15-29,0
+A & N Islands,2001,Ideological Causes/Hero Worshipping,Diploma,No,House Wife,Widowed,M,15-29,0
+A & N Islands,2001,Cancellation/Non-Settlement of Marriage,Post Graduate,No,House Wife,Divorcee,M,15-29,0
+A & N Islands,2001,Family Problems,Middle,By Hanging,Service (Private) or Student,Married,M,15-29,3
+A & N Islands,2001,Love Affairs,Primary,By Hanging,Service (Private),Married,M,15-29,3
+A & N Islands,2001,Insanity/Mental Illness,Primary,By Hanging,Public Sector Undertaking,Married,M,15-29,2
+A & N Islands,2001,Death of Dear Person,Diploma,No,Professional Activity,Divorcee,M,15-29,0
+A & N Islands,2001,Not having Children(Barrenness/Impotency,Post Graduate,No,Retired Person,Divorcee,M,15-29,0
+A & N Islands,2001,Poverty,Post Graduate,No,Unemployement,Seperated,M,15-29,0
+A & N Islands,2001,Property Dispute,Post Graduate,No,Unemployement,Seperated,M,15-29,0
+A & N Islands,2001,Illness (Aids/STD),Diploma,No,Retired Person,Divorcee,M,15-29,0
+A & N Islands,2001,Dowry Dispute,Post Graduate,No,Professional Activity,Divorcee,M,15-29,0
+A & N Islands,2001,Suspected/Illicit Relation,Post Graduate,No,House Wife,Seperated,M,15-29,0
+A & N Islands,2001,Paralysis,Post Graduate,No,Retired Person,Seperated,M,15-29,0
+A & N Islands,2001,Fall in Social Reputation,Diploma,No,Professional Activity,Seperated,M,15-29,0
+A & N Islands,2001,Failure in Examination,Graduate,By Fire/Self Immolation,Service (Private),Married,M,15-29,1
+A & N Islands,2001,Unemployment,Post Graduate,No,Unemployement,Seperated,M,15-29,0
+A & N Islands,2001,Divorce,Post Graduate,No,House Wife,Divorcee,M,15-29,0
+A & N Islands,2001,Causes Not known,Primary,By Hanging,Service (Private),Married,M,15-29,9
+A & N Islands,2001,Cancellation/Non-Settlement of Marriage,Diploma,No,Public Sector Undertaking,Seperated,F,30-44,0
+A & N Islands,2001,Divorce,Post Graduate,No,Service (Private),Widowed/Widower,F,30-44,0
+A & N Islands,2001,Drug Abuse/Addiction,Hr. Secondary,No,Service (Government),Divorcee,F,30-44,0
+A & N Islands,2001,Not having Children(Barrenness/Impotency),Diploma,No,Others (Please Specify),Married,F,30-44,0
+A & N Islands,2001,Other Prolonged Illness,Middle,By Hanging,House Wife,Married,F,30-44,3
+A & N Islands,2001,Physical Abuse (Rape/Incest Etc.),Post Graduate,No,Service (Government),Seperated,F,30-44,0
+A & N Islands,2001,Property Dispute,Hr. Secondary,No,Student,Widowed/Widower,F,30-44,0
+A & N Islands,2001,Illegitimate Pregnancy,Hr. Secondary,No,Student,Divorcee,F,30-44,0
+A & N Islands,2001,Family Problems,Post Graduate,No,Farming/Agriculture Activity,Married,F,30-44,0
+A & N Islands,2001,Causes Not known,Middle,By Hanging,House Wife,Married,F,30-44,2
+A & N Islands,2001,Death of Dear Person,Middle,By Fire/Self Immolation,House Wife,Married,F,30-44,1
+A & N Islands,2001,Suspected/Illicit Relation,Post Graduate,No,Public Sector Undertaking,Seperated,F,30-44,0
+A & N Islands,2001,Cancer,Diploma,No,Professional Activity,Widowed/Widower,F,30-44,0
+A & N Islands,2001,Failure in Examination,Hr. Secondary,No,Others (Please Specify),Divorcee,F,30-44,0
+A & N Islands,2001,Bankruptcy or Sudden change in Economic,Diploma,No,Self-employed (Business activity),,F,30-44,0
+A & N Islands,2001,Paralysis,Diploma,No,Service (Private),Married,F,30-44,0
+A & N Islands,2001,Poverty,Post Graduate,No,Public Sector Undertaking,Married,F,30-44,0
+A & N Islands,2001,Professional/Career Problem,Diploma,No,Self-employed (Business activity),,F,30-44,0
+A & N Islands,2001,Illness (Aids/STD),Diploma,No,Unemployed,Seperated,F,30-44,0
+A & N Islands,2001,Fall in Social Reputation,Hr. Secondary,No,Retired Person,Widowed/Widower,F,30-44,0
+A & N Islands,2001,Dowry Dispute,Diploma,No,Professional Activity,Divorcee,F,30-44,0
+A & N Islands,2001,Ideological Causes/Hero Worshipping,Diploma,No,Professional Activity,Married,F,30-44,0
+A & N Islands,2001,Other Causes (Please Specity),Middle,By Drowning,House Wife,Married,F,30-44,1
+A & N Islands,2001,Insanity/Mental Illness,Middle,By Hanging,House Wife,Married,F,30-44,2
+A & N Islands,2001,Love Affairs,Diploma,No,Professional Activity,Married,F,30-44,0
+A & N Islands,2001,Unemployment,Diploma,No,Public Sector Undertaking,Seperated,F,30-44,0
+A & N Islands,2001,Failure in Examination,Diploma,No,Unemployed,Widowed/Widower,M,30-44,0
+A & N Islands,2001,Fall in Social Reputation,Post Graduate,No,Professional Activity,Seperated,M,30-44,0
+A & N Islands,2001,Insanity/Mental Illness,Middle,By Hanging,Service (Private),Never Married,M,30-44,3
+A & N Islands,2001,Love Affairs,Post Graduate,No,Self-employed (Business activity),,M,30-44,0
+A & N Islands,2001,Poverty,Post Graduate,No,Retired Person,Widowed/Widower,M,30-44,0
+A & N Islands,2001,Unemployment,Diploma,No,Unemployed,Seperated,M,30-44,0
+A & N Islands,2001,Dowry Dispute,Diploma,No,Professional Activity,Never Married,M,30-44,0
+A & N Islands,2001,Drug Abuse/Addiction,Diploma,No,Student,Never Married,M,30-44,0
+A & N Islands,2001,Causes Not known,Middle,By Hanging,Service (Government),Married,M,30-44,8
+A & N Islands,2001,Physical Abuse (Rape/Incest Etc.),Post Graduate,No,Retired Person,Widowed/Widower,M,30-44,0
+A & N Islands,2001,Cancer,Post Graduate,No,House Wife,Seperated,M,30-44,0
+A & N Islands,2001,Ideological Causes/Hero Worshipping,Diploma,No,Professional Activity,Married,M,30-44,0
+A & N Islands,2001,Cancellation/Non-Settlement of Marriage,Diploma,No,Unemployed,Divorcee,M,30-44,0
+A & N Islands,2001,Death of Dear Person,Diploma,No,House Wife,Married,M,30-44,0
+A & N Islands,2001,Not having Children(Barrenness/Impotency,Diploma,No,Unemployed,Married,M,30-44,0
+A & N Islands,2001,Other Prolonged Illness,Secondary,By Hanging,Others (Please Specify) or Public Sector Undertaking,Never Married,M,30-44,6
+A & N Islands,2001,Paralysis,Post Graduate,No,Retired Person,Divorcee,M,30-44,0
+A & N Islands,2001,Divorce,Post Graduate,No,Professional Activity,Divorcee,M,30-44,0
+A & N Islands,2001,Illness (Aids/STD),Post Graduate,No,Self-employed (Business activity),,M,30-44,0
+A & N Islands,2001,Property Dispute,Diploma,No,House Wife,Widowed/Widower,M,30-44,0
+A & N Islands,2001,Professional/Career Problem,Diploma,No,Unemployed,Seperated,M,30-44,0
+A & N Islands,2001,Suspected/Illicit Relation,Post Graduate,No,Unemployed,Married,M,30-44,0
+A & N Islands,2001,Family Problems,Secondary,By Hanging,Service (Private),Never Married,M,30-44,4
+A & N Islands,2001,Other Causes (Please Specity),Primary,By Drowning or By Hanging,Service (Government),Never Married,M,30-44,2
+A & N Islands,2001,Bankruptcy or Sudden change in Economic,Post Graduate,No,Self-employed (Business activity),Never Married,M,30-44,0
+A & N Islands,2001,Illegitimate Pregnancy,Post Graduate,No,House Wife,Married,M,30-44,0
+A & N Islands,2001,Drug Abuse/Addiction,Diploma,No,Service (Government),Seperated,F,45-59,0
+A & N Islands,2001,Not having Children(Barrenness/Impotency,Graduate,No,Professional Activity,Widowed/Widower,F,45-59,0
+A & N Islands,2001,Dowry Dispute,Post Graduate,No,Farming/Agriculture Activity,Divorcee,F,45-59,0
+A & N Islands,2001,Family Problems,Middle,By Hanging,House Wife,Married,F,45-59,2
+A & N Islands,2001,Ideological Causes/Hero Worshipping,Diploma,No,Farming/Agriculture Activity,Married,F,45-59,0
+A & N Islands,2001,Suspected/Illicit Relation,Diploma,No,Service (Government),Married,F,45-59,0
+A & N Islands,2001,Causes Not known,Middle,By Fire/Self Immolation,House Wife,Married,F,45-59,1
+A & N Islands,2001,Professional/Career Problem,Post Graduate,No,Student,Never Married,F,45-59,0
+A & N Islands,2001,Illness (Aids/STD),Graduate,No,Unemployed,Seperated,F,45-59,0
+A & N Islands,2001,Property Dispute,Post Graduate,No,Self-employed (Business activity),Widowed/Widower,F,45-59,0
+A & N Islands,2001,Physical Abuse (Rape/Incest Etc.),Graduate,No,Service (Government),Married,F,45-59,0
+A & N Islands,2001,Cancellation/Non-Settlement of Marriage,Post Graduate,No,Professional Activity,Married,F,45-59,0
+A & N Islands,2001,Other Causes (Please Specity),Diploma,No,Retired Person,Married,F,45-59,0
+A & N Islands,2001,Paralysis,Diploma,No,Service (Private),Married,F,45-59,0
+A & N Islands,2001,Death of Dear Person,Post Graduate,No,Professional Activity,Seperated,F,45-59,0
+A & N Islands,2001,Bankruptcy or Sudden change in Economic,Graduate,No,Farming/Agriculture Activity,Widowed/Widower,F,45-59,0
+A & N Islands,2001,Illegitimate Pregnancy,Post Graduate,No,Public Sector Undertaking,Divorcee,F,45-59,0
+A & N Islands,2001,Unemployment,Graduate,No,Service (Government),Married,F,45-59,0
+A & N Islands,2001,Fall in Social Reputation,Graduate,No,Unemployed,Married,F,45-59,0
+A & N Islands,2001,Other Prolonged Illness,Secondary,By Hanging,House Wife,Married,F,45-59,2
+A & N Islands,2001,Poverty,Post Graduate,No,Professional Activity,Never Married,F,45-59,0
+A & N Islands,2001,Love Affairs,Post Graduate,No,Public Sector Undertaking,Seperated,F,45-59,0
+A & N Islands,2001,Divorce,Diploma,No,Professional Activity,Widowed/Widower,F,45-59,0
+A & N Islands,2001,Insanity/Mental Illness,Post Graduate,No,Professional Activity,Divorcee,F,45-59,0
+A & N Islands,2001,Failure in Examination,Graduate,No,Student,Married,F,45-59,0
+A & N Islands,2001,Cancer,Post Graduate,No,Retired Person,Married,F,45-59,0
+A & N Islands,2001,Paralysis,Diploma,No,Others (Please Specify),Married,M,45-59,0
+A & N Islands,2001,Bankruptcy or Sudden change in Economic,Diploma,No,Professional Activity,Seperated,M,45-59,0
+A & N Islands,2001,Cancer,Diploma,No,Unemployed,Widowed/Widower,M,45-59,0
+A & N Islands,2001,Poverty,Post Graduate,No,Student,Divorcee,M,45-59,0
+A & N Islands,2001,Failure in Examination,Post Graduate,No,Professional Activity,Seperated,M,45-59,0
+A & N Islands,2001,Fall in Social Reputation,Post Graduate,No,Unemployed,Widowed/Widower,M,45-59,0
+A & N Islands,2001,Illness (Aids/STD),Post Graduate,No,Self-employed (Business activity),Divorcee,M,45-59,0
+A & N Islands,2001,Death of Dear Person,Post Graduate,No,Student,Never Married,M,45-59,0
+A & N Islands,2001,Divorce,Diploma,No,Professional Activity,Never Married,M,45-59,0
+A & N Islands,2001,Illegitimate Pregnancy,Post Graduate,No,Retired Person,Married,M,45-59,0
+A & N Islands,2001,Causes Not known,Middle,By Hanging,Service (Government) or Service (Private),Married,M,45-59,10
+A & N Islands,2001,Family Problems,Middle,By Consuming Other Poison,Service (Government),Married,M,45-59,3
+A & N Islands,2001,Insanity/Mental Illness,Middle,By Hanging,Service (Government),Married,M,45-59,3
+A & N Islands,2001,Property Dispute,Diploma,No,Retired Person,Never Married,M,45-59,0
+A & N Islands,2001,Dowry Dispute,Diploma,No,Retired Person,Married,M,45-59,0
+A & N Islands,2001,Other Causes (Please Specity),No Education,By Drowning,Public Sector Undertaking,Married,M,45-59,1
+A & N Islands,2001,Professional/Career Problem,Post Graduate,No,Farming/Agriculture Activity,Married,M,45-59,0
+A & N Islands,2001,Physical Abuse (Rape/Incest Etc.),Diploma,No,Self-employed (Business activity),Married,M,45-59,0
+A & N Islands,2001,Drug Abuse/Addiction,Diploma,No,Retired Person,Married,M,45-59,0
+A & N Islands,2001,Suspected/Illicit Relation,Post Graduate,No,Farming/Agriculture Activity,Married,M,45-59,0
+A & N Islands,2001,Other Prolonged Illness,Middle,By Hanging,Others (Please Specify),Married,M,45-59,4
+A & N Islands,2001,Ideological Causes/Hero Worshipping,Post Graduate,No,Self-employed (Business activity),Never Married,M,45-59,0
+A & N Islands,2001,Cancellation/Non-Settlement of Marriage,Post Graduate,No,Farming/Agriculture Activity,Seperated,M,45-59,0
+A & N Islands,2001,Love Affairs,Post Graduate,No,Unemployed,Widowed/Widower,M,45-59,0
+A & N Islands,2001,Not having Children(Barrenness/Impotency,Diploma,No,Retired Person,Divorcee,M,45-59,0
+A & N Islands,2001,Unemployment,Post Graduate,No,Student,Married,M,45-59,0
+A & N Islands,2001,Dowry Dispute,Post Graduate,No,Public Sector Undertaking,Seperated,F,60+,0
+A & N Islands,2001,Ideological Causes/Hero Worshipping,Diploma,No,Student,Widowed/Widower,F,60+,0
+A & N Islands,2001,Bankruptcy or Sudden change in Economic,Graduate,No,Service (Government),Divorcee,F,60+,0
+A & N Islands,2001,Cancellation/Non-Settlement of Marriage,Graduate,No,Self-employed (Business activity),Married,F,60+,0
+A & N Islands,2001,Cancer,Post Graduate,No,Service (Private),Married,F,60+,0
+A & N Islands,2001,Paralysis,Graduate,No,Professional Activity,Married,F,60+,0
+A & N Islands,2001,Divorce,Graduate,No,Others (Please Specify),Married,F,60+,0
+A & N Islands,2001,Illness (Aids/STD),Diploma,No,Retired Person,Married,F,60+,0
+A & N Islands,2001,Physical Abuse (Rape/Incest Etc.),Post Graduate,No,Unemployed,Married,F,60+,0
+A & N Islands,2001,Illegitimate Pregnancy,Post Graduate,No,Farming/Agriculture Activity,Married,F,60+,0
+A & N Islands,2001,Insanity/Mental Illness,Secondary,By Hanging,House Wife,Married,F,60+,1
+A & N Islands,2001,Failure in Examination,Graduate,No,Professional Activity,Never Married,F,60+,0
+A & N Islands,2001,Other Prolonged Illness,Secondary,By Hanging,House Wife,Married,F,60+,1
+A & N Islands,2001,Poverty,Post Graduate,No,Others (Please Specify),Never Married,F,60+,0
+A & N Islands,2001,Fall in Social Reputation,Hr. Secondary,No,Service (Government),Never Married,F,60+,0
+A & N Islands,2001,Love Affairs,Hr. Secondary,No,Professional Activity,Never Married,F,60+,0
+A & N Islands,2001,Causes Not known,Secondary,By Hanging,House Wife,Married,F,60+,1
+A & N Islands,2001,Professional/Career Problem,Hr. Secondary,No,Service (Government),Married,F,60+,0
+A & N Islands,2001,Property Dispute,Diploma,No,Professional Activity,Never Married,F,60+,0
+A & N Islands,2001,Other Causes (Please Specity),Graduate,No,Retired Person,Seperated,F,60+,0
+A & N Islands,2001,Drug Abuse/Addiction,Hr. Secondary,No,Farming/Agriculture Activity,Widowed/Widower,F,60+,0
+A & N Islands,2001,Not having Children(Barrenness/Impotency,Diploma,No,Others (Please Specify),Divorcee,F,60+,0
+A & N Islands,2001,Suspected/Illicit Relation,Hr. Secondary,No,Unemployed,Seperated,F,60+,0
+A & N Islands,2001,Death of Dear Person,Diploma,No,Others (Please Specify),Widowed/Widower,F,60+,0
+A & N Islands,2001,Family Problems,Post Graduate,No,Professional Activity,Divorcee,F,60+,0
+A & N Islands,2001,Unemployment,Post Graduate,No,Others (Please Specify),Married,F,60+,0
+A & N Islands,2001,Divorce,Diploma,No,Professional Activity,Married,M,60+,0
+A & N Islands,2001,Physical Abuse (Rape/Incest Etc.),Post Graduate,No,House Wife,Married,M,60+,0
+A & N Islands,2001,Professional/Career Problem,Post Graduate,No,Student,Never Married,M,60+,0
+A & N Islands,2001,Unemployment,Post Graduate,No,Service (Government),Seperated,M,60+,0
+A & N Islands,2001,Property Dispute,Post Graduate,No,House Wife,Widowed/Widower,M,60+,0
+A & N Islands,2001,Death of Dear Person,Diploma,No,Unemployed,Divorcee,M,60+,0
+A & N Islands,2001,Not having Children(Barrenness/Impotency,Post Graduate,No,Professional Activity,Married,M,60+,0
+A & N Islands,2001,Cancellation/Non-Settlement of Marriage,Diploma,No,Student,Seperated,M,60+,0
+A & N Islands,2001,Love Affairs,Diploma,No,Service (Government),Widowed/Widower,M,60+,0
+A & N Islands,2001,Poverty,Post Graduate,No,House Wife,Divorcee,M,60+,0
+A & N Islands,2001,Bankruptcy or Sudden change in Economic,Post Graduate,No,Student,Married,M,60+,0
+A & N Islands,2001,Fall in Social Reputation,Diploma,No,Service (Government),Married,M,60+,0
+A & N Islands,2001,Other Prolonged Illness,No Education,By Hanging,"Farming/Agriculture Activity or Service (Private)
+",Married,M,60+,4
+A & N Islands,2001,Illness (Aids/STD),Diploma,No,Professional Activity,Married,M,60+,0
+A & N Islands,2001,Dowry Dispute,Post Graduate,No,Student,Never Married,M,60+,0
+A & N Islands,2001,Ideological Causes/Hero Worshipping,Diploma,No,Service (Government),Married,M,60+,0
+A & N Islands,2001,Insanity/Mental Illness,Hr. Secondary,By Hanging,Service (Private),Married,M,60+,1
+A & N Islands,2001,Drug Abuse/Addiction,Diploma,No,Unemployed,Never Married,M,60+,0
+A & N Islands,2001,Failure in Examination,Diploma,No,Self-employed (Business activity),Married,M,60+,0
+A & N Islands,2001,Family Problems,Hr. Secondary,By Hanging,Others (Please Specify),Never Married,M,60+,1
+A & N Islands,2001,Illegitimate Pregnancy,Post Graduate,No,Self-employed (Business activity),Married,M,60+,0
+A & N Islands,2001,Paralysis,Post Graduate,No,Professional Activity,Married,M,60+,0
+A & N Islands,2001,Cancer,Post Graduate,No,Public Sector Undertaking,Married,M,60+,0
+A & N Islands,2001,Causes Not known,Post Graduate,No,Self-employed (Business activity),Married,M,60+,0
+A & N Islands,2001,Other Causes (Please Specity),No Education,By Hanging,Retired Person,Married,M,60+,2
+A & N Islands,2001,Suspected/Illicit Relation,Post Graduate,No,Public Sector Undertaking,Never Married,M,60+,0
+A & N Islands,2005,Paralysis,No Education,No,Unemployed,Never Married,F,0-14,0
+A & N Islands,2005,Bankruptcy or Sudden change in Economic,No Education,No,Professional Activity,Never Married,F,0-14,0
+A & N Islands,2005,Family Problems,No Education,No,Others (Please Specify),Never Married,F,0-14,0
+A & N Islands,2005,Cancer,No Education,No,Unemployed,Never Married,F,0-14,0
+A & N Islands,2005,Love Affairs,Primary,No,Professional Activity,Never Married,F,0-14,0
+A & N Islands,2005,Divorce,Primary,No,Others (Please Specify),Divorcee,F,0-14,0
+A & N Islands,2005,Property Dispute,Primary,No,House Wife,Never Married,F,0-14,0
+A & N Islands,2005,Suspected/Illicit Relation,Primary,No,House Wife,Never Married,F,0-14,0
+A & N Islands,2005,Failure in Examination,Primary,No,Farming/Agriculture Activity,Never Married,F,0-14,0
+A & N Islands,2005,Death of Dear Person,Primary,No,Farming/Agriculture Activity,Never Married,F,0-14,0
+A & N Islands,2005,Other Prolonged Illness,Primary,No,Student,Never Married,F,0-14,0
+A & N Islands,2005,Poverty,No Education,No,House Wife,Never Married,F,0-14,0
+A & N Islands,2005,Dowry Dispute,No Education,No,House Wife,Never Married,F,0-14,0
+A & N Islands,2005,Ideological Causes/Hero Worshipping,No Education,No,House Wife,Never Married,F,0-14,0
+A & N Islands,2005,Causes Not known,Primary,By Hanging,Student,Never Married,F,0-14,1
+A & N Islands,2005,Insanity/Mental Illness,Primary,No,Student,Never Married,F,0-14,0
+A & N Islands,2005,Cancellation/Non-Settlement of Marriage,Primary,No,Student,Married,F,0-14,0
+A & N Islands,2005,Professional/Career Problem,Primary,No,Student,Married,F,0-14,0
+A & N Islands,2005,Drug Abuse/Addiction,Primary,No,Student,Never Married,F,0-14,0
+A & N Islands,2005,Other Causes (Please Specity),"Primary
+",By Hanging,Student,Never Married,F,0-14,2
+A & N Islands,2005,Fall in Social Reputation,"Primary
+",No,Student,Never Married,F,0-14,0
+A & N Islands,2005,Illegitimate Pregnancy,"Primary
+",No,Student,Married,F,0-14,0
+A & N Islands,2005,Physical Abuse (Rape/Incest Etc.),"Primary
+",No,Student,Married,F,0-14,0
+A & N Islands,2005,Unemployment,"Primary
+",No,Student,Never Married,F,0-14,0
+A & N Islands,2005,Illness (Aids/STD),No Education,No,House Wife,Never Married,F,0-14,0
+A & N Islands,2005,Not having Children(Barrenness/Impotency,No Education,No,House Wife,Divorcee,F,0-14,0
+A & N Islands,2005,Professional/Career Problem,No Education,No,House Wife,Never Married,M,0-14,0
+A & N Islands,2005,Bankruptcy or Sudden change in Economic,No Education,No,House Wife,Never Married,M,0-14,0
+A & N Islands,2005,Divorce,No Education,No,House Wife,Divorcee,M,0-14,0
+A & N Islands,2005,Insanity/Mental Illness,No Education,No,House Wife,Never Married,M,0-14,0
+A & N Islands,2005,Illegitimate Pregnancy,Middle,No,Student,Never Married,M,0-14,0
+A & N Islands,2005,Other Causes (Please Specity),Primary,By Hanging,"Self-employed (Business activity) or Student
+",Never Married,M,0-14,4
+A & N Islands,2005,Unemployment,Primary,No,Farming/Agriculture Activity,Never Married,M,0-14,0
+A & N Islands,2005,Failure in Examination,Primary,No,Farming/Agriculture Activity,Never Married,M,0-14,0
+A & N Islands,2005,Illness (Aids/STD),Primary,No,Farming/Agriculture Activity,Never Married,M,0-14,0
+A & N Islands,2005,Dowry Dispute,Primary,No,Farming/Agriculture Activity,Widowed/Widower,M,0-14,0
+A & N Islands,2005,Ideological Causes/Hero Worshipping,Middle,No,Student,Never Married,M,0-14,0
+A & N Islands,2005,Love Affairs,Primary,By Consuming Insecticides,Student,Never Married,M,0-14,1
+A & N Islands,2005,Suspected/Illicit Relation,Primary,No,Student,Never Married,M,0-14,0
+A & N Islands,2005,Death of Dear Person,Middle,No,Student,Never Married,M,0-14,0
+A & N Islands,2005,Family Problems,Primary,No,Student,Never Married,M,0-14,0
+A & N Islands,2005,Not having Children(Barrenness/Impotency,Primary,No,Student,Seperated,M,0-14,0
+A & N Islands,2005,Cancer,Primary,No,Student,Never Married,M,0-14,0
+A & N Islands,2005,Other Prolonged Illness,Primary,No,Student,Never Married,M,0-14,0
+A & N Islands,2005,Physical Abuse (Rape/Incest Etc.),Primary,No,Professional Activity,Never Married,M,0-14,0
+A & N Islands,2005,Paralysis,Primary,No,Professional Activity,Never Married,M,0-14,0
+A & N Islands,2005,Drug Abuse/Addiction,Middle,No,Professional Activity,Never Married,M,0-14,0
+A & N Islands,2005,Poverty,No Education,No,House Wife,Never Married,M,0-14,0
+A & N Islands,2005,Cancellation/Non-Settlement of Marriage,No Education,No,House Wife,Never Married,M,0-14,0
+A & N Islands,2005,Causes Not known,Primary,No,Student,Never Married,M,0-14,0
+A & N Islands,2005,Property Dispute,Primary,No,Student,Never Married,M,0-14,0
+A & N Islands,2005,Fall in Social Reputation,Primary,No,Student,Never Married,M,0-14,0
+A & N Islands,2005,Love Affairs,Matriculate/Secondary,No,Public Sector Undertaking,Never Married,F,15-29,0
+A & N Islands,2005,Drug Abuse/Addiction,Graduate,No,Student,Never Married,F,15-29,0
+A & N Islands,2005,Suspected/Illicit Relation,Middle,No,Public Sector Undertaking,Married,F,15-29,0
+A & N Islands,2005,Unemployment,Hr. Secondary/Intermediate/Pre-Universit,No,Student,Never Married,F,15-29,0
+A & N Islands,2005,Physical Abuse (Rape/Incest Etc.),Diploma,No,Farming/Agriculture Activity,Never Married,F,15-29,0
+A & N Islands,2005,Other Prolonged Illness,Primary,By Hanging,House Wife,Never Married,F,15-29,6
+A & N Islands,2005,Cancer,Middle,No,Professional Activity,Never Married,F,15-29,0
+A & N Islands,2005,Divorce,Hr. Secondary/Intermediate/Pre-Universit,No,Service (Government),Divorcee,F,15-29,0
+A & N Islands,2005,Poverty,Diploma,No,House Wife,Seperated,F,15-29,0
+A & N Islands,2005,Paralysis,Matriculate/Secondary,No,Farming/Agriculture Activity,Seperated,F,15-29,0
+A & N Islands,2005,Professional/Career Problem,Graduate,No,Professional Activity,Married,F,15-29,0
+A & N Islands,2005,Failure in Examination,Primary,By Consuming Insecticides or By Hanging,Student,Never Married,F,15-29,3
+A & N Islands,2005,Causes Not known,Middle,By Consuming Insecticides,House Wife,Never Married,F,15-29,3
+A & N Islands,2005,Insanity/Mental Illness,Primary,By Fire/Self Immolation,House Wife,Never Married,F,15-29,2
+A & N Islands,2005,Not having Children(Barrenness/Impotency,Middle,No,Farming/Agriculture Activity,Married,F,15-29,0
+A & N Islands,2005,Illness (Aids/STD),Hr. Secondary/Intermediate/Pre-Universit,No,Professional Activity,Married,F,15-29,0
+A & N Islands,2005,Ideological Causes/Hero Worshipping,Middle,No,Service (Government),Married,F,15-29,0
+A & N Islands,2005,Fall in Social Reputation,Hr. Secondary/Intermediate/Pre-Universit,No,Farming/Agriculture Activity,Married,F,15-29,0
+A & N Islands,2005,Death of Dear Person,Matriculate/Secondary,No,Professional Activity,Married,F,15-29,0
+A & N Islands,2005,Family Problems,Graduate,No,Service (Government),Married,F,15-29,0
+A & N Islands,2005,Other Causes (Please Specity),Matriculate/Secondary,By Hanging,"Student or Unemployed or Service (Private)
+
+",Married,F,15-29,13
+A & N Islands,2005,Bankruptcy or Sudden change in Economic,Middle,No,Farming/Agriculture Activity,Married,F,15-29,0
+A & N Islands,2005,Cancellation/Non-Settlement of Marriage,Hr. Secondary/Intermediate/Pre-Universit,No,Professional Activity,Married,F,15-29,0
+A & N Islands,2005,Illegitimate Pregnancy,Diploma,No,Service (Government),Widowed/Widower,F,15-29,0
+A & N Islands,2005,Dowry Dispute,Diploma,No,Public Sector Undertaking,Married,F,15-29,0
+A & N Islands,2005,Property Dispute,Middle,No,Student,Married,F,15-29,0
+A & N Islands,2005,Cancellation/Non-Settlement of Marriage,Matriculate/Secondary,No,Retired Person,Divorcee,M,15-29,0
+A & N Islands,2005,Paralysis,Graduate,No,Service (Private),Divorcee,M,15-29,0
+A & N Islands,2005,Divorce,Middle,No,Unemployed,Divorcee,M,15-29,0
+A & N Islands,2005,Drug Abuse/Addiction,Hr. Secondary/Intermediate/Pre-Universit,No,House Wife,Seperated,M,15-29,0
+A & N Islands,2005,Fall in Social Reputation,Middle,No,Others (Please Specify),Never Married,M,15-29,0
+A & N Islands,2005,Love Affairs,Hr. Secondary/Intermediate/Pre-Universit,No,Self-employed (Business activity),Seperated,M,15-29,0
+A & N Islands,2005,Other Causes (Please Specity),Primary,By Hanging,"Student or Service (Private) or Self-employed (Business activity)
+
+",Never Married,M,15-29,5
+A & N Islands,2005,Physical Abuse (Rape/Incest Etc.),Middle,No,Others (Please Specify),Widowed/Widower,M,15-29,0
+A & N Islands,2005,Failure in Examination,Hr. Secondary/Intermediate/Pre-Universit,No,Self-employed (Business activity),Married,M,15-29,0
+A & N Islands,2005,Causes Not known,Primary,By Hanging,Service (Private),Never Married,M,15-29,6
+A & N Islands,2005,Illness (Aids/STD),Middle,No,Others (Please Specify),Married,M,15-29,0
+A & N Islands,2005,Illegitimate Pregnancy,Hr. Secondary/Intermediate/Pre-Universit,No,Self-employed (Business activity),Seperated,M,15-29,0
+A & N Islands,2005,Cancer,Graduate,No,House Wife,Married,M,15-29,0
+A & N Islands,2005,Other Prolonged Illness,Graduate,No,Service (Government),Never Married,M,15-29,1
+A & N Islands,2005,Dowry Dispute,Diploma,No,House Wife,Seperated,M,15-29,0
+A & N Islands,2005,Insanity/Mental Illness,Primary,By Consuming Insecticides,Student,Never Married,M,15-29,2
+A & N Islands,2005,Unemployment,Middle,No,House Wife,Married,M,15-29,0
+A & N Islands,2005,Not having Children(Barrenness/Impotency,Hr. Secondary/Intermediate/Pre-Universit,No,Self-employed (Business activity),Never Married,M,15-29,0
+A & N Islands,2005,Suspected/Illicit Relation,Middle,No,Student,Never Married,M,15-29,0
+A & N Islands,2005,Bankruptcy or Sudden change in Economic,Hr. Secondary/Intermediate/Pre-Universit,No,Self-employed (Business activity),Married,M,15-29,0
+A & N Islands,2005,Death of Dear Person,Primary,By Hanging,Unemployed,Never Married,M,15-29,1
+A & N Islands,2005,Ideological Causes/Hero Worshipping,Middle,No,Student,Married,M,15-29,0
+A & N Islands,2005,Family Problems,Hr. Secondary/Intermediate/Pre-Universit,No,Self-employed (Business activity),Married,M,15-29,0
+A & N Islands,2005,Professional/Career Problem,Middle,No,Student,Married,M,15-29,0
+A & N Islands,2005,Property Dispute,Hr. Secondary/Intermediate/Pre-Universit,No,Service (Government),Married,M,15-29,0
+A & N Islands,2005,Poverty,Middle,No,Unemployed,Never Married,M,15-29,0
+A & N Islands,2005,Dowry Dispute,Graduate,No,Farming/Agriculture Activity,Married,F,30-44,0
+A & N Islands,2005,Ideological Causes/Hero Worshipping,Diploma,No,Service (Government),Married,F,30-44,0
+A & N Islands,2005,Love Affairs,Post Graduate,No,Service (Private),Married,F,30-44,0
+A & N Islands,2005,Bankruptcy or Sudden change in Economic,Diploma,No,Self-employed (Business activity),Married,F,30-44,0
+A & N Islands,2005,Poverty,No Education,No,Student,Married,F,30-44,0
+A & N Islands,2005,Family Problems,Middle,By Fire/Self Immolation,Farming/Agriculture Activity,Never Married,F,30-44,1
+A & N Islands,2005,Paralysis,Graduate,No,Others (Please Specify),Married,F,30-44,0
+A & N Islands,2005,Unemployment,Diploma,No,Retired Person,Married,F,30-44,0
+A & N Islands,2005,Cancer,Post Graduate,No,Professional Activity,Married,F,30-44,0
+A & N Islands,2005,Divorce,Graduate,No,Public Sector Undertaking,Divorcee,F,30-44,0
+A & N Islands,2005,Cancellation/Non-Settlement of Marriage,Diploma,No,Others (Please Specify),Married,F,30-44,0
+A & N Islands,2005,Physical Abuse (Rape/Incest Etc.),Post Graduate,No,Retired Person,Married,F,30-44,0
+A & N Islands,2005,Property Dispute,Graduate,No,Professional Activity,Married,F,30-44,0
+A & N Islands,2005,Other Causes (Please Specity),Matriculate/Secondary,By Hanging,House Wife,Married,F,30-44,2
+A & N Islands,2005,Insanity/Mental Illness,Matriculate/Secondary,By Hanging or By Consuming Insecticides,House Wife,Married,F,30-44,2
+A & N Islands,2005,Not having Children(Barrenness/Impotency,No Education,No,House Wife,Widowed/Widower,F,30-44,0
+A & N Islands,2005,Other Prolonged Illness,Hr. Secondary/Intermediate/Pre-Universit,By Consuming Insecticides,House Wife,Married,F,30-44,2
+A & N Islands,2005,Illness (Aids/STD),Graduate,No,Others (Please Specify),Married,F,30-44,0
+A & N Islands,2005,Drug Abuse/Addiction,Diploma,No,Retired Person,Married,F,30-44,0
+A & N Islands,2005,Suspected/Illicit Relation,Post Graduate,No,Professional Activity,Married,F,30-44,0
+A & N Islands,2005,Death of Dear Person,Middle,No,Student,Married,F,30-44,0
+A & N Islands,2005,Causes Not known,Matriculate/Secondary,By Drowning,House Wife,Married,F,30-44,1
+A & N Islands,2005,Professional/Career Problem,Graduate,No,Others (Please Specify),Married,F,30-44,0
+A & N Islands,2005,Illegitimate Pregnancy,Diploma,No,Retired Person,Never Married,F,30-44,0
+A & N Islands,2005,Failure in Examination,Post Graduate,No,Professional Activity,Married,F,30-44,0
+A & N Islands,2005,Fall in Social Reputation,Middle,No,Retired Person,Married,F,30-44,0
+A & N Islands,2005,Drug Abuse/Addiction,Hr. Secondary/Intermediate/Pre-Universit,No,Professional Activity,Married,M,30-44,0
+A & N Islands,2005,Love Affairs,Primary,By Hanging,Farming/Agriculture Activity,Married,M,30-44,2
+A & N Islands,2005,Poverty,"Primary or Hr. Secondary/Intermediate/Pre-Universit
+",By Consuming Insecticides,Service (Private),Married,M,30-44,2
+A & N Islands,2005,Unemployment,Hr. Secondary/Intermediate/Pre-Universit,No,Student,Married,M,30-44,0
+A & N Islands,2005,Failure in Examination,Hr. Secondary/Intermediate/Pre-Universit,No,Student,Married,M,30-44,0
+A & N Islands,2005,Family Problems,Middle,By Fire/Self Immolation,Unemployed,Married,M,30-44,1
+A & N Islands,2005,Physical Abuse (Rape/Incest Etc.),Graduate,No,Retired Person,Married,M,30-44,0
+A & N Islands,2005,Professional/Career Problem,Diploma,No,Professional Activity,Married,M,30-44,0
+A & N Islands,2005,Illness (Aids/STD),Post Graduate,No,Professional Activity,Married,M,30-44,0
+A & N Islands,2005,Fall in Social Reputation,Graduate,No,Farming/Agriculture Activity,Married,M,30-44,0
+A & N Islands,2005,Paralysis,Diploma,No,Retired Person,Married,M,30-44,0
+A & N Islands,2005,Cancellation/Non-Settlement of Marriage,Post Graduate,No,Professional Activity,Never Married,M,30-44,0
+A & N Islands,2005,Cancer,No Education,No,Farming/Agriculture Activity,Never Married,M,30-44,0
+A & N Islands,2005,Insanity/Mental Illness,Middle,By Hanging,Others (Please Specify),Married,M,30-44,4
+A & N Islands,2005,Other Prolonged Illness,Middle,By Hanging,Service (Government),Married,M,30-44,3
+A & N Islands,2005,Property Dispute,Graduate,No,Farming/Agriculture Activity,Married,M,30-44,0
+A & N Islands,2005,Death of Dear Person,Diploma,No,Retired Person,Married,M,30-44,0
+A & N Islands,2005,Divorce,Post Graduate,No,Professional Activity,Divorcee,M,30-44,0
+A & N Islands,2005,Not having Children(Barrenness/Impotency,Diploma,No,Farming/Agriculture Activity,Seperated,M,30-44,0
+A & N Islands,2005,Other Causes (Please Specity),Middle,By Hanging,Service (Private),Married,M,30-44,10
+A & N Islands,2005,Causes Not known,Middle,By Hanging,Service (Government),Married,M,30-44,2
+A & N Islands,2005,Suspected/Illicit Relation,Graduate,No,House Wife,Married,M,30-44,0
+A & N Islands,2005,Bankruptcy or Sudden change in Economic,Diploma,No,Others (Please Specify),Married,M,30-44,0
+A & N Islands,2005,Ideological Causes/Hero Worshipping,Post Graduate,No,Retired Person,Married,M,30-44,0
+A & N Islands,2005,Illegitimate Pregnancy,Graduate,No,Professional Activity,Seperated,M,30-44,0
+A & N Islands,2005,Dowry Dispute,Post Graduate,No,Professional Activity,Married,M,30-44,0
+A & N Islands,2005,Property Dispute,"Graduate
+",By Consuming Insecticides,House Wife,Married,F,45-59,1
+A & N Islands,2005,Cancer,Graduate,No,Service (Private),Married,F,45-59,0
+A & N Islands,2005,Death of Dear Person,Diploma,No,Service (Government),Married,F,45-59,0
+A & N Islands,2005,Divorce,Post Graduate,No,Service (Private),Married,F,45-59,0
+A & N Islands,2005,Illness (Aids/STD),Post Graduate,No,Service (Government),Married,F,45-59,0
+A & N Islands,2005,Paralysis,Post Graduate,No,Self-employed (Business activity),Married,F,45-59,0
+A & N Islands,2005,Not having Children(Barrenness/Impotency,Post Graduate,No,Others (Please Specify),Married,F,45-59,0
+A & N Islands,2005,Other Prolonged Illness,Middle,By Hanging,House Wife,Married,F,45-59,4
+A & N Islands,2005,Physical Abuse (Rape/Incest Etc.),Middle,No,Unemployed,Married,F,45-59,0
+A & N Islands,2005,Bankruptcy or Sudden change in Economic,Post Graduate and Above,No,Self-employed (Business activity),Married,F,45-59,0
+A & N Islands,2005,Failure in Examination,Graduate,No,Others (Please Specify),Married,F,45-59,0
+A & N Islands,2005,Causes Not known,Middle,By Hanging,House Wife,Married,F,45-59,1
+A & N Islands,2005,Fall in Social Reputation,Hr. Secondary/Intermediate/Pre-Universit,No,House Wife,Married,F,45-59,0
+A & N Islands,2005,Professional/Career Problem,Diploma,No,Self-employed (Business activity),Married,F,45-59,0
+A & N Islands,2005,Dowry Dispute,Middle,No,Others (Please Specify),Married,F,45-59,0
+A & N Islands,2005,Ideological Causes/Hero Worshipping,Post Graduate and Above,No,Retired Person,Married,F,45-59,0
+A & N Islands,2005,Suspected/Illicit Relation,Graduate,No,Self-employed (Business activity),Never Married,F,45-59,0
+A & N Islands,2005,Family Problems,Diploma,No,Others (Please Specify),Never Married,F,45-59,0
+A & N Islands,2005,Illegitimate Pregnancy,Post Graduate and Above,No,Retired Person,Married,F,45-59,0
+A & N Islands,2005,Other Causes (Please Specity),Middle,By Consuming Insecticides,House Wife,Married,F,45-59,2
+A & N Islands,2005,Insanity/Mental Illness,Middle,By Hanging,House Wife,Married,F,45-59,2
+A & N Islands,2005,Love Affairs,Post Graduate and Above,No,Service (Government),Married,F,45-59,0
+A & N Islands,2005,Poverty,Graduate,No,Farming/Agriculture Activity,Married,F,45-59,0
+A & N Islands,2005,Unemployment,Middle,No,Unemployed,Married,F,45-59,0
+A & N Islands,2005,Drug Abuse/Addiction,Hr. Secondary/Intermediate/Pre-Universit,No,Self-employed (Business activity),Married,F,45-59,0
+A & N Islands,2005,Cancellation/Non-Settlement of Marriage,Diploma,No,Others (Please Specify),Divorcee,F,45-59,0
+A & N Islands,2005,Dowry Dispute,Post Graduate and Above,No,Retired Person,Married,M,45-59,0
+A & N Islands,2005,Other Causes (Please Specity),No Education,By Hanging,"Service (Private) or Unemployed
+",Never Married,M,45-59,5
+A & N Islands,2005,Cancer,Post Graduate and Above,No,Service (Government),Married,M,45-59,0
+A & N Islands,2005,Cancellation/Non-Settlement of Marriage,Graduate,No,Farming/Agriculture Activity,Divorcee,M,45-59,0
+A & N Islands,2005,Physical Abuse (Rape/Incest Etc.),Middle,No,Farming/Agriculture Activity,Married,M,45-59,0
+A & N Islands,2005,Love Affairs,Hr. Secondary/Intermediate/Pre-Universit,No,Unemployed,Married,M,45-59,0
+A & N Islands,2005,Fall in Social Reputation,Diploma,No,Unemployed,Married,M,45-59,0
+A & N Islands,2005,Other Prolonged Illness,Middle,By Hanging,Service (Government),Married,M,45-59,7
+A & N Islands,2005,Insanity/Mental Illness,Hr. Secondary/Intermediate/Pre-Universit,By Consuming Insecticides or By Hanging,Others (Please Specify),Married,M,45-59,2
+A & N Islands,2005,Suspected/Illicit Relation,Diploma,No,Unemployed,Never Married,M,45-59,0
+A & N Islands,2005,Professional/Career Problem,Graduate,No,Public Sector Undertaking,Married,M,45-59,0
+A & N Islands,2005,Bankruptcy or Sudden change in Economic,Post Graduate and Above,No,Public Sector Undertaking,Married,M,45-59,0
+A & N Islands,2005,Illegitimate Pregnancy,Post Graduate and Above,No,Public Sector Undertaking,Married,M,45-59,0
+A & N Islands,2005,Causes Not known,Middle,By Hanging,Service (Private),Married,M,45-59,10
+A & N Islands,2005,Death of Dear Person,Post Graduate and Above,No,Self-employed (Business activity),Married,M,45-59,0
+A & N Islands,2005,Divorce,Graduate,No,Others (Please Specify),Divorcee,M,45-59,0
+A & N Islands,2005,Family Problems,Middle,No,Unemployed,Married,M,45-59,0
+A & N Islands,2005,Failure in Examination,Hr. Secondary/Intermediate/Pre-Universit,No,Public Sector Undertaking,Married,M,45-59,0
+A & N Islands,2005,Illness (Aids/STD),Diploma,No,Self-employed (Business activity),Married,M,45-59,0
+A & N Islands,2005,Not having Children(Barrenness/Impotency,Diploma,No,Self-employed (Business activity),Married,M,45-59,0
+A & N Islands,2005,Poverty,Matriculate/Secondary,By Fire/Self Immolation,Farming/Agriculture Activity,Widowed/Widower,M,45-59,1
+A & N Islands,2005,Unemployment,Post Graduate and Above,No,Self-employed (Business activity),Married,M,45-59,0
+A & N Islands,2005,Paralysis,Graduate,No,Self-employed (Business activity),Married,M,45-59,0
+A & N Islands,2005,Property Dispute,Middle,No,Student,Married,M,45-59,0
+A & N Islands,2005,Drug Abuse/Addiction,Hr. Secondary/Intermediate/Pre-Universit,No,Student,Never Married,M,45-59,0
+A & N Islands,2005,Ideological Causes/Hero Worshipping,Diploma,No,Unemployed,Never Married,M,45-59,0
+A & N Islands,2005,Suspected/Illicit Relation,Post Graduate and Above,No,Service (Private),Married,F,60+,0
+A & N Islands,2005,Death of Dear Person,Graduate,No,Others (Please Specify),Married,F,60+,0
+A & N Islands,2005,Poverty,Middle,No,Student,Married,F,60+,0
+A & N Islands,2005,Other Causes (Please Specity),Hr. Secondary/Intermediate/Pre-Universit,No,Student,Married,F,60+,0
+A & N Islands,2005,Professional/Career Problem,Diploma,No,Service (Government),Married,F,60+,0
+A & N Islands,2005,Property Dispute,Post Graduate and Above,No,Unemployed,Married,F,60+,0
+A & N Islands,2005,Drug Abuse/Addiction,Graduate,No,Professional Activity,Married,F,60+,0
+A & N Islands,2005,Causes Not known,Post Graduate and Above,No,Self-employed (Business activity),Married,F,60+,0
+A & N Islands,2005,Family Problems,Graduate,No,House Wife,Married,F,60+,0
+A & N Islands,2005,Cancer,Middle,No,Retired Person,Married,F,60+,0
+A & N Islands,2005,Divorce,Hr. Secondary/Intermediate/Pre-Universit,No,Farming/Agriculture Activity,Divorcee,F,60+,0
+A & N Islands,2005,Not having Children(Barrenness/Impotency,Diploma,No,Public Sector Undertaking,Married,F,60+,0
+A & N Islands,2005,Cancellation/Non-Settlement of Marriage,Middle,No,House Wife,Seperated,F,60+,0
+A & N Islands,2005,Other Prolonged Illness,"No Education
+",By Consuming Insecticides or By Hanging,House Wife,Married,F,60+,4
+A & N Islands,2005,Physical Abuse (Rape/Incest Etc.),Graduate,No,Service (Private),Married,F,60+,0
+A & N Islands,2005,Dowry Dispute,Diploma,No,Others (Please Specify),Married,F,60+,0
+A & N Islands,2005,Ideological Causes/Hero Worshipping,Post Graduate and Above,No,Professional Activity,Married,F,60+,0
+A & N Islands,2005,Paralysis,Diploma,No,Self-employed (Business activity),Never Married,F,60+,0
+A & N Islands,2005,Love Affairs,Post Graduate and Above,No,House Wife,Never Married,F,60+,0
+A & N Islands,2005,Insanity/Mental Illness,Middle,By Consuming Insecticides,Unemployed,Married,F,60+,1
+A & N Islands,2005,Illness (Aids/STD),Post Graduate and Above,No,Professional Activity,Married,F,60+,0
+A & N Islands,2005,Bankruptcy or Sudden change in Economic,Post Graduate and Above,No,Self-employed (Business activity),Married,F,60+,0
+A & N Islands,2005,Illegitimate Pregnancy,Post Graduate and Above,No,House Wife,Seperated,F,60+,0
+A & N Islands,2005,Unemployment,Graduate,No,Retired Person,Married,F,60+,0
+A & N Islands,2005,Fall in Social Reputation,Middle,No,Professional Activity,Married,F,60+,0
+A & N Islands,2005,Failure in Examination,Hr. Secondary/Intermediate/Pre-Universit,No,Self-employed (Business activity),Married,F,60+,0
+A & N Islands,2005,Not having Children(Barrenness/Impotency,Diploma,No,House Wife,Married,M,60+,0
+A & N Islands,2005,Cancellation/Non-Settlement of Marriage,Post Graduate and Above,No,Retired Person,Seperated,M,60+,0
+A & N Islands,2005,Illness (Aids/STD),Graduate,No,Professional Activity,Married,M,60+,0
+A & N Islands,2005,Bankruptcy or Sudden change in Economic,Post Graduate and Above,No,Self-employed (Business activity),Married,M,60+,0
+A & N Islands,2005,Cancer,Graduate,No,House Wife,Married,M,60+,0
+A & N Islands,2005,Fall in Social Reputation,Diploma,No,Retired Person,Married,M,60+,0
+A & N Islands,2005,Other Causes (Please Specity),Matriculate/Secondary,By Hanging,Farming/Agriculture Activity,Married,M,60+,3
+A & N Islands,2005,Paralysis,Graduate,No,Retired Person,Married,M,60+,0
+A & N Islands,2005,Failure in Examination,Graduate,No,Professional Activity,Married,M,60+,0
+A & N Islands,2005,Family Problems,Matriculate/Secondary,By Hanging,Farming/Agriculture Activity,Married,M,60+,1
+A & N Islands,2005,Divorce,Post Graduate and Above,No,Retired Person,Divorcee,M,60+,0
+A & N Islands,2005,Drug Abuse/Addiction,Graduate,No,Professional Activity,Seperated,M,60+,0
+A & N Islands,2005,Physical Abuse (Rape/Incest Etc.),Middle,No,Unemployed,Seperated,M,60+,0
+A & N Islands,2005,Professional/Career Problem,Hr. Secondary/Intermediate/Pre-Universit,No,Service (Government),Never Married,M,60+,0
+A & N Islands,2005,Suspected/Illicit Relation,Diploma,No,Self-employed (Business activity),Never Married,M,60+,0
+A & N Islands,2005,Insanity/Mental Illness,Matriculate/Secondary,By Hanging,Self-employed (Business activity),Married,M,60+,1
+A & N Islands,2005,Poverty,Diploma,No,Service (Private),Married,M,60+,0
+A & N Islands,2005,Unemployment,Post Graduate and Above,No,Others (Please Specify),Married,M,60+,0
+A & N Islands,2005,Death of Dear Person,Post Graduate and Above,No,Professional Activity,Married,M,60+,0
+A & N Islands,2005,Illegitimate Pregnancy,Post Graduate and Above,No,Public Sector Undertaking,Married,M,60+,0
+A & N Islands,2005,Property Dispute,Graduate,No,Public Sector Undertaking,Married,M,60+,0
+A & N Islands,2005,Dowry Dispute,Middle,No,Student,Married,M,60+,0
+A & N Islands,2005,Ideological Causes/Hero Worshipping,Hr. Secondary/Intermediate/Pre-Universit,No,"
+Service (Government)
+",Married,M,60+,0
+A & N Islands,2005,Love Affairs,Diploma,No,Public Sector Undertaking,Never Married,M,60+,0
+A & N Islands,2005,Other Prolonged Illness,No Education,By Hanging,Service (Private),Married,M,60+,10
+A & N Islands,2005,Causes Not known,Matriculate/Secondary,By Hanging,Service (Private),Married,M,60+,2
+A & N Islands,2009,Unemployment,No Education,No,Farming/Agriculture Activity,Never Married,F,0-14,0
+A & N Islands,2009,Failure in Examination,Primary,No,Farming/Agriculture Activity,Never Married,F,0-14,0
+A & N Islands,2009,Cancer,Primary,No,Student,Married,F,0-14,0
+A & N Islands,2009,Paralysis,Primary,No,Student,Married,F,0-14,0
+A & N Islands,2009,Fall in Social Reputation,Primary,No,Student,Married,F,0-14,0
+A & N Islands,2009,Divorce,No Education,No,Student,Married,F,0-14,0
+A & N Islands,2009,Death of Dear Person,Primary,No,Student,Married,F,0-14,0
+A & N Islands,2009,Suspected/Illicit Relation,Primary,No,Student,Married,F,0-14,0
+A & N Islands,2009,Drug Abuse/Addiction,Primary,No,Student,Married,F,0-14,0
+A & N Islands,2009,Not having Children(Barrenness/Impotency,Primary,No,Student,Never Married,F,0-14,0
+A & N Islands,2009,Bankruptcy or Sudden change in Economic,Primary,No,Professional Activity,Married,F,0-14,0
+A & N Islands,2009,Illegitimate Pregnancy,Primary,No,Professional Activity,Married,F,0-14,0
+A & N Islands,2009,Causes Not known,No Education,No,Student,Married,F,0-14,0
+A & N Islands,2009,Dowry Dispute,No Education,No,Student,Married,F,0-14,0
+A & N Islands,2009,Love Affairs,Primary,No,Professional Activity,Never Married,F,0-14,0
+A & N Islands,2009,Other Causes (Please Specity),"Middle
+","By Consuming Other Poison or By Hanging
+",Student,Never Married,F,0-14,7
+A & N Islands,2009,Cancellation/Non-Settlement of Marriage,No Education,No,Farming/Agriculture Activity,Never Married,F,0-14,0
+A & N Islands,2009,Other Prolonged Illness,Primary,No,Farming/Agriculture Activity,Never Married,F,0-14,0
+A & N Islands,2009,Physical Abuse (Rape/Incest Etc.),No Education,No,Farming/Agriculture Activity,Married,F,0-14,0
+A & N Islands,2009,Insanity/Mental Illness,No Education,No,Farming/Agriculture Activity,Married,F,0-14,0
+A & N Islands,2009,Professional/Career Problem,Primary,No,Student,Married,F,0-14,0
+A & N Islands,2009,Property Dispute,No Education,No,Student,Married,F,0-14,0
+A & N Islands,2009,Family Problems,Primary,No,Student,Married,F,0-14,0
+A & N Islands,2009,Illness (Aids/STD),Primary,No,Student,Married,F,0-14,0
+A & N Islands,2009,Poverty,Primary,No,Student,Married,F,0-14,0
+A & N Islands,2009,Ideological Causes/Hero Worshipping,Primary,No,Student,Never Married,F,0-14,0
+A & N Islands,2009,Cancellation/Non-Settlement of Marriage,No Education,No,Student,Never Married,M,0-14,0
+A & N Islands,2009,Causes Not known,No Education,No,Student,Married,M,0-14,0
+A & N Islands,2009,Illness (Aids/STD),Primary,No,Professional Activity,Married,M,0-14,0
+A & N Islands,2009,Fall in Social Reputation,Primary,No,Professional Activity,Married,M,0-14,0
+A & N Islands,2009,Insanity/Mental Illness,Primary,No,Professional Activity,Married,M,0-14,0
+A & N Islands,2009,Death of Dear Person,Primary,No,House Wife,Married,M,0-14,0
+A & N Islands,2009,Not having Children(Barrenness/Impotency,Primary,No,House Wife,Married,M,0-14,0
+A & N Islands,2009,Divorce,No Education,No,Student,Divorcee,M,0-14,0
+A & N Islands,2009,Dowry Dispute,No Education,No,Student,Seperated,M,0-14,0
+A & N Islands,2009,Ideological Causes/Hero Worshipping,Primary,No,Student,Never Married,M,0-14,0
+A & N Islands,2009,Unemployment,No Education,No,Student,Never Married,M,0-14,0
+A & N Islands,2009,Bankruptcy or Sudden change in Economic,No Education,No,Student,Married,M,0-14,0
+A & N Islands,2009,Illegitimate Pregnancy,Primary,No,Student,Married,M,0-14,0
+A & N Islands,2009,Cancer,Primary,No,Professional Activity,Married,M,0-14,0
+A & N Islands,2009,Drug Abuse/Addiction,No Education,No,Professional Activity,Married,M,0-14,0
+A & N Islands,2009,Failure in Examination,Primary,No,Professional Activity,Married,M,0-14,0
+A & N Islands,2009,Family Problems,Primary,No,House Wife,Married,M,0-14,0
+A & N Islands,2009,Love Affairs,Primary,No,House Wife,Married,M,0-14,0
+A & N Islands,2009,Other Causes (Please Specity),No Education,By Hanging,Student,Never Married,M,0-14,1
+A & N Islands,2009,Poverty,No Education,No,Student,Never Married,M,0-14,0
+A & N Islands,2009,Other Prolonged Illness,No Education,No,Student,Never Married,M,0-14,0
+A & N Islands,2009,Professional/Career Problem,Primary,No,Student,Married,M,0-14,0
+A & N Islands,2009,Property Dispute,No Education,No,Student,Married,M,0-14,0
+A & N Islands,2009,Physical Abuse (Rape/Incest Etc.),Primary,No,Professional Activity,Married,M,0-14,0
+A & N Islands,2009,Paralysis,Primary,No,Professional Activity,Married,M,0-14,0
+A & N Islands,2009,Suspected/Illicit Relation,Primary,No,Professional Activity,Married,M,0-14,0
+A & N Islands,2009,Not having Children(Barrenness/Impotency,Hr. Secondary/Intermediate/Pre-Universit,No,House Wife,Married,F,15-29,0
+A & N Islands,2009,Professional/Career Problem,Graduate,No,House Wife,Married,F,15-29,0
+A & N Islands,2009,Property Dispute,Diploma,No,Student,Married,F,15-29,0
+A & N Islands,2009,Drug Abuse/Addiction,Hr. Secondary/Intermediate/Pre-Universit,No,House Wife,Married,F,15-29,0
+A & N Islands,2009,Family Problems,Middle,By Fire/Self Immolation,House Wife,Never Married,F,15-29,1
+A & N Islands,2009,Other Causes (Please Specity),Middle,By Hanging,House Wife,Never Married,F,15-29,8
+A & N Islands,2009,Dowry Dispute,Hr. Secondary/Intermediate/Pre-Universit,No,Professional Activity,Married,F,15-29,0
+A & N Islands,2009,Failure in Examination,Middle,By Fire/Self Immolation,Others (Please Specify),Married,F,15-29,1
+A & N Islands,2009,Ideological Causes/Hero Worshipping,Diploma,No,Professional Activity,Married,F,15-29,0
+A & N Islands,2009,Other Prolonged Illness,Middle,By Consuming Other Poison,Student,Married,F,15-29,3
+A & N Islands,2009,Love Affairs,Middle,By Hanging,Others (Please Specify),Married,F,15-29,1
+A & N Islands,2009,Cancellation/Non-Settlement of Marriage,Matriculate/Secondary,No,Professional Activity,Married,F,15-29,0
+A & N Islands,2009,Physical Abuse (Rape/Incest Etc.),Hr. Secondary/Intermediate/Pre-Universit,No,Service (Government),Married,F,15-29,0
+A & N Islands,2009,Death of Dear Person,Matriculate/Secondary,No,Farming/Agriculture Activity,Divorcee,F,15-29,0
+A & N Islands,2009,Unemployment,Hr. Secondary/Intermediate/Pre-Universit,No,Professional Activity,Seperated,F,15-29,0
+A & N Islands,2009,Suspected/Illicit Relation,Matriculate/Secondary,No,Service (Government),Married,F,15-29,0
+A & N Islands,2009,Causes Not known,Middle,By Hanging,House Wife,Married,F,15-29,4
+A & N Islands,2009,Fall in Social Reputation,Matriculate/Secondary,No,Professional Activity,Married,F,15-29,0
+A & N Islands,2009,Paralysis,Middle,No,Service (Government),Married,F,15-29,0
+A & N Islands,2009,Cancer,Diploma,No,Farming/Agriculture Activity,Married,F,15-29,0
+A & N Islands,2009,Divorce,No Education,No,Professional Activity,Divorcee,F,15-29,0
+A & N Islands,2009,Illegitimate Pregnancy,Post Graduate and Above,No,Service (Government),Seperated,F,15-29,0
+A & N Islands,2009,Illness (Aids/STD),Graduate,No,Others (Please Specify),Married,F,15-29,0
+A & N Islands,2009,Poverty,Hr. Secondary/Intermediate/Pre-Universit,No,Professional Activity,Married,F,15-29,0
+A & N Islands,2009,Insanity/Mental Illness,Matriculate/Secondary,By Hanging,House Wife,Never Married,F,15-29,1
+A & N Islands,2009,Bankruptcy or Sudden change in Economic,Hr. Secondary/Intermediate/Pre-Universit,No,Self-employed (Business activity),Divorcee,F,15-29,0
+A & N Islands,2009,Dowry Dispute,Graduate,No,House Wife,Seperated,M,15-29,0
+A & N Islands,2009,Unemployment,Matriculate/Secondary,No,Retired Person,Married,M,15-29,0
+A & N Islands,2009,Drug Abuse/Addiction,Hr. Secondary/Intermediate/Pre-Universit,No,Self-employed (Business activity),Married,M,15-29,0
+A & N Islands,2009,Fall in Social Reputation,Hr. Secondary/Intermediate/Pre-Universit,No,House Wife,Married,M,15-29,0
+A & N Islands,2009,Property Dispute,Matriculate/Secondary,No,Retired Person,Diovorcee,M,15-29,0
+A & N Islands,2009,Other Causes (Please Specity),Middle,By Hanging,Service (Private),Married,M,15-29,14
+A & N Islands,2009,Paralysis,Hr. Secondary/Intermediate/Pre-Universit,No,House Wife,,M,15-29,0
+A & N Islands,2009,Love Affairs,Middle,By Consuming Insecticides or By Hanging,Student,Married,M,15-29,2
+A & N Islands,2009,Cancer,Diploma,No,Self-employed (Business activity),Married,M,15-29,0
+A & N Islands,2009,Not having Children(Barrenness/Impotency,Graduate,No,House Wife,Married,M,15-29,0
+A & N Islands,2009,Ideological Causes/Hero Worshipping,Hr. Secondary/Intermediate/Pre-Universit,No,Retired Person,Seperated,M,15-29,0
+A & N Islands,2009,Causes Not known,Middle,By Hanging,"Service (Private) or Farming/Agriculture Activity
+",Never Married,M,15-29,7
+A & N Islands,2009,Other Prolonged Illness,Matriculate/Secondary,By Hanging,Service (Private),Never Married,M,15-29,4
+A & N Islands,2009,Insanity/Mental Illness,Matriculate/Secondary,By Consuming Other Poison,Others (Please Specify),Never Married,M,15-29,4
+A & N Islands,2009,Illness (Aids/STD),Diploma,No,House Wife,Never Married,M,15-29,0
+A & N Islands,2009,Suspected/Illicit Relation,Hr. Secondary/Intermediate/Pre-Universit,No,Retired Person,Never Married,M,15-29,0
+A & N Islands,2009,Failure in Examination,Hr. Secondary/Intermediate/Pre-Universit,No,Professional Activity,Married,M,15-29,0
+A & N Islands,2009,Bankruptcy or Sudden change in Economic,Matriculate/Secondary,No,Self-employed (Business activity),Married,M,15-29,0
+A & N Islands,2009,Illegitimate Pregnancy,Diploma,No,House Wife,Married,M,15-29,0
+A & N Islands,2009,Death of Dear Person,Hr. Secondary/Intermediate/Pre-Universit,No,Retired Person,Married,M,15-29,0
+A & N Islands,2009,Family Problems,Matriculate/Secondary,No,Farming/Agriculture Activity,Married,M,15-29,0
+A & N Islands,2009,Cancellation/Non-Settlement of Marriage,Graduate,No,Retired Person,Married,M,15-29,0
+A & N Islands,2009,Physical Abuse (Rape/Incest Etc.),Diploma,No,Professional Activity,Married,M,15-29,0
+A & N Islands,2009,Divorce,Hr. Secondary/Intermediate/Pre-Universit,No,Farming/Agriculture Activity,Divorcee,M,15-29,0
+A & N Islands,2009,Poverty,Graduate,No,Retired Person,Seperated,M,15-29,0
+A & N Islands,2009,Professional/Career Problem,Matriculate/Secondary,No,Professional Activity,Married,M,15-29,0
+A & N Islands,2009,Dowry Dispute,Diploma,No,Unemployed,Married,F,30-44,0
+A & N Islands,2009,Ideological Causes/Hero Worshipping,Hr. Secondary/Intermediate/Pre-Universit,No,Others (Please Specify),Married,F,30-44,0
+A & N Islands,2009,Illness (Aids/STD),Graduate,No,Professional Activity,Divorcee,F,30-44,0
+A & N Islands,2009,Love Affairs,Matriculate/Secondary,No,House Wife,Seperated,F,30-44,0
+A & N Islands,2009,Insanity/Mental Illness,Matriculate/Secondary,By Hanging,House Wife,Married,F,30-44,5
+A & N Islands,2009,Physical Abuse (Rape/Incest Etc.),Middle,No,Retired Person,Never Married,F,30-44,0
+A & N Islands,2009,Property Dispute,Matriculate/Secondary,No,House Wife,Never Married,F,30-44,0
+A & N Islands,2009,Poverty,Matriculate/Secondary,No,Professional Activity,Married,F,30-44,0
+A & N Islands,2009,Death of Dear Person,Diploma,No,House Wife,Married,F,30-44,0
+A & N Islands,2009,Family Problems,Hr. Secondary/Intermediate/Pre-Universit,No,Others (Please Specify),Married,F,30-44,0
+A & N Islands,2009,Paralysis,Hr. Secondary/Intermediate/Pre-Universit,No,Service (Government),Married,F,30-44,0
+A & N Islands,2009,Cancer,Matriculate/Secondary,No,Professional Activity,Married,F,30-44,0
+A & N Islands,2009,Professional/Career Problem,Diploma,No,Others (Please Specify),Married,F,30-44,0
+A & N Islands,2009,Unemployment,Hr. Secondary/Intermediate/Pre-Universit,No,Professional Activity,Married,F,30-44,0
+A & N Islands,2009,Divorce,Matriculate/Secondary,No,Retired Person,Divorcee,F,30-44,0
+A & N Islands,2009,Drug Abuse/Addiction,Graduate,No,Professional Activity,Seperated,F,30-44,0
+A & N Islands,2009,Not having Children(Barrenness/Impotency,Diploma,No,Unemployed,Married,F,30-44,0
+A & N Islands,2009,Cancellation/Non-Settlement of Marriage,Hr. Secondary/Intermediate/Pre-Universit,No,Others (Please Specify),Married,F,30-44,0
+A & N Islands,2009,Fall in Social Reputation,Graduate,No,Professional Activity,Married,F,30-44,0
+A & N Islands,2009,Causes Not known,Middle,By Fire/Self Immolation,"Others (Please Specify) or Service (Government)
+",Married,F,30-44,2
+A & N Islands,2009,Other Causes (Please Specity),Matriculate/Secondary,By Hanging,House Wife,Married,F,30-44,5
+A & N Islands,2009,Suspected/Illicit Relation,Post Graduate and Above,No,Retired Person,Married,F,30-44,0
+A & N Islands,2009,Bankruptcy or Sudden change in Economic,Post Graduate and Above,No,House Wife,Married,F,30-44,0
+A & N Islands,2009,Illegitimate Pregnancy,Post Graduate and Above,No,Retired Person,Married,F,30-44,0
+A & N Islands,2009,Other Prolonged Illness,Matriculate/Secondary,"By Drowning or By Consuming Other Poison
+",Service (Private),Married,F,30-44,2
+A & N Islands,2009,Failure in Examination,Diploma,No,Retired Person,Married,F,30-44,0
+A & N Islands,2009,Bankruptcy or Sudden change in Economic,Graduate,No,House Wife,Married,M,30-44,0
+A & N Islands,2009,Paralysis,Diploma,No,Retired Person,Married,M,30-44,0
+A & N Islands,2009,Insanity/Mental Illness,Middle,By Hanging,Service (Private),Married,M,30-44,5
+A & N Islands,2009,Other Prolonged Illness,Middle,"By Drowning or By Consuming Other Poison or By Consuming Insecticides
+
+","Others (Please Specify) or Self-employed (Business activity)
+",Married,M,30-44,3
+A & N Islands,2009,Family Problems,Graduate,No,Professional Activity,Never Married,M,30-44,0
+A & N Islands,2009,Unemployment,Diploma,No,Professional Activity,Divorcee,M,30-44,0
+A & N Islands,2009,Dowry Dispute,Graduate,No,Professional Activity,Seperated,M,30-44,0
+A & N Islands,2009,Other Causes (Please Specity),Matriculate/Secondary,By Hanging,Farming/Agriculture Activity,Married,M,30-44,7
+A & N Islands,2009,Cancellation/Non-Settlement of Marriage,Graduate,No,Others (Please Specify),Married,M,30-44,0
+A & N Islands,2009,Property Dispute,Diploma,No,Professional Activity,Married,M,30-44,0
+A & N Islands,2009,Illegitimate Pregnancy,Graduate,No,House Wife,Married,M,30-44,0
+A & N Islands,2009,Causes Not known,Matriculate/Secondary,By Hanging,"Service (Private) or Service (Government)
+",Married,M,30-44,8
+A & N Islands,2009,Suspected/Illicit Relation,Matriculate/Secondary,No,Self-employed (Business activity),,M,30-44,0
+A & N Islands,2009,Professional/Career Problem,Graduate,No,House Wife,Married,M,30-44,0
+A & N Islands,2009,Love Affairs,Diploma,No,Retired Person,Married,M,30-44,0
+A & N Islands,2009,Poverty,Hr. Secondary/Intermediate/Pre-Universit,No,Professional Activity,Married,M,30-44,0
+A & N Islands,2009,Physical Abuse (Rape/Incest Etc.),Graduate,No,Self-employed (Business activity),Married,M,30-44,0
+A & N Islands,2009,Ideological Causes/Hero Worshipping,Diploma,No,House Wife,Married,M,30-44,0
+A & N Islands,2009,Illness (Aids/STD),Hr. Secondary/Intermediate/Pre-Universit,No,Retired Person,Married,M,30-44,0
+A & N Islands,2009,Failure in Examination,Graduate,No,Farming/Agriculture Activity,Married,M,30-44,0
+A & N Islands,2009,Fall in Social Reputation,Matriculate/Secondary,No,Retired Person,Married,M,30-44,0
+A & N Islands,2009,Not having Children(Barrenness/Impotency,Post Graduate and Above,No,Self-employed (Business activity),Married,M,30-44,0
+A & N Islands,2009,Divorce,Matriculate/Secondary,No,House Wife,Divorcee,M,30-44,0
+A & N Islands,2009,Drug Abuse/Addiction,Graduate,No,Retired Person,Seperated,M,30-44,0
+A & N Islands,2009,Cancer,Diploma,No,Others (Please Specify),Never Married,M,30-44,0
+A & N Islands,2009,Death of Dear Person,Hr. Secondary/Intermediate/Pre-Universit,No,Professional Activity,Never Married,M,30-44,0
+A & N Islands,2009,Family Problems,Graduate,No,Retired Person,Married,F,45-59,0
+A & N Islands,2009,Not having Children(Barrenness/Impotency,Diploma,No,Professional Activity,Married,F,45-59,0
+A & N Islands,2009,Fall in Social Reputation,Hr. Secondary/Intermediate/Pre-Universit,No,Unemployed,Married,F,45-59,0
+A & N Islands,2009,Cancer,Graduate,No,Others (Please Specify),Married,F,45-59,0
+A & N Islands,2009,Drug Abuse/Addiction,Matriculate/Secondary,No,Professional Activity,Married,F,45-59,0
+A & N Islands,2009,Failure in Examination,Matriculate/Secondary,No,Self-employed (Business activity),Married,F,45-59,0
+A & N Islands,2009,Dowry Dispute,Diploma,No,House Wife,Married,F,45-59,0
+A & N Islands,2009,Property Dispute,Hr. Secondary/Intermediate/Pre-Universit,No,Retired Person,Married,F,45-59,0
+A & N Islands,2009,Illegitimate Pregnancy,Matriculate/Secondary,No,Self-employed (Business activity),Married,F,45-59,0
+A & N Islands,2009,Suspected/Illicit Relation,Graduate,No,House Wife,Married,F,45-59,0
+A & N Islands,2009,Insanity/Mental Illness,Diploma,No,Retired Person,Married,F,45-59,0
+A & N Islands,2009,Death of Dear Person,Matriculate/Secondary,No,Professional Activity,Married,F,45-59,0
+A & N Islands,2009,Divorce,Graduate,No,Self-employed (Business activity),Divorcee,F,45-59,0
+A & N Islands,2009,Love Affairs,Diploma,No,House Wife,Seperated,F,45-59,0
+A & N Islands,2009,Paralysis,Matriculate/Secondary,No,Retired Person,Married,F,45-59,0
+A & N Islands,2009,Causes Not known,Diploma,No,Farming/Agriculture Activity,Married,F,45-59,0
+A & N Islands,2009,Cancellation/Non-Settlement of Marriage,Hr. Secondary/Intermediate/Pre-Universit,No,Retired Person,Married,F,45-59,0
+A & N Islands,2009,Other Prolonged Illness,"
+Hr. Secondary/Intermediate/Pre-University or Primary",By Consuming Other Poison or By Hanging,House Wife,Married,F,45-59,3
+A & N Islands,2009,Poverty,Matriculate/Secondary,No,Service (Government),Married,F,45-59,0
+A & N Islands,2009,Unemployment,Diploma,No,Self-employed (Business activity),Married,F,45-59,0
+A & N Islands,2009,Illness (Aids/STD),Hr. Secondary/Intermediate/Pre-Universit,No,Service (Private),Married,F,45-59,0
+A & N Islands,2009,Professional/Career Problem,Diploma,No,Professional Activity,Married,F,45-59,0
+A & N Islands,2009,Ideological Causes/Hero Worshipping,Post Graduate and Above,No,Professional Activity,Married,F,45-59,0
+A & N Islands,2009,Other Causes (Please Specity),No Education,By Fire/Self Immolation,House Wife,Married,F,45-59,1
+A & N Islands,2009,Bankruptcy or Sudden change in Economic,Matriculate/Secondary,No,Self-employed (Business activity),Never Married,F,45-59,0
+A & N Islands,2009,Physical Abuse (Rape/Incest Etc.),Diploma,No,House Wife,Never Married,F,45-59,0
+A & N Islands,2009,Failure in Examination,Hr. Secondary/Intermediate/Pre-Universit,No,Retired Person,Married,M,45-59,0
+A & N Islands,2009,Fall in Social Reputation,Graduate,No,Retired Person,Married,M,45-59,0
+A & N Islands,2009,Unemployment,Matriculate/Secondary,No,Professional Activity,Married,M,45-59,0
+A & N Islands,2009,Love Affairs,Matriculate/Secondary,No,Unemployed,Married,M,45-59,0
+A & N Islands,2009,Not having Children(Barrenness/Impotency,Diploma,No,Self-employed (Business activity),Married,M,45-59,0
+A & N Islands,2009,Cancer,Hr. Secondary/Intermediate/Pre-Universit,No,House Wife,Married,M,45-59,0
+A & N Islands,2009,Drug Abuse/Addiction,Post Graduate and Above,No,Retired Person,Married,M,45-59,0
+A & N Islands,2009,Causes Not known,Middle,By Hanging,Service (Government),Married,M,45-59,9
+A & N Islands,2009,Dowry Dispute,Post Graduate and Above,No,Others (Please Specify),Married,M,45-59,0
+A & N Islands,2009,Poverty,Post Graduate and Above,No,Professional Activity,Married,M,45-59,0
+A & N Islands,2009,Other Causes (Please Specity),Matriculate/Secondary,By Hanging,Service (Private),Married,M,45-59,6
+A & N Islands,2009,Death of Dear Person,Graduate,No,Unemployed,Married,M,45-59,0
+A & N Islands,2009,Other Prolonged Illness,Primary,By Hanging,"Farming/Agriculture Activity or Others (Please Specify)
+",Married,M,45-59,6
+A & N Islands,2009,Bankruptcy or Sudden change in Economic,Graduate,No,Others (Please Specify),Married,M,45-59,0
+A & N Islands,2009,Illegitimate Pregnancy,Diploma,No,Professional Activity,Married,M,45-59,0
+A & N Islands,2009,Insanity/Mental Illness,Hr. Secondary/Intermediate/Pre-Universit,"By Consuming Other Poison or By Fire/Self Immolation
+",Service (Private),Married,M,45-59,4
+A & N Islands,2009,Family Problems,Matriculate/Secondary,No,Unemployed,Never Married,M,45-59,0
+A & N Islands,2009,Professional/Career Problem,Matriculate/Secondary,No,Retired Person,Married,M,45-59,0
+A & N Islands,2009,Physical Abuse (Rape/Incest Etc.),Diploma,No,Professional Activity,Married,M,45-59,0
+A & N Islands,2009,Cancellation/Non-Settlement of Marriage,Hr. Secondary/Intermediate/Pre-Universit,No,Unemployed,Married,M,45-59,0
+A & N Islands,2009,Ideological Causes/Hero Worshipping,Hr. Secondary/Intermediate/Pre-Universit,No,Public Sector Undertaking,Never Married,M,45-59,0
+A & N Islands,2009,Property Dispute,Matriculate/Secondary,No,Student,Never Married,M,45-59,0
+A & N Islands,2009,Divorce,Diploma,No,Service (Government),Divorcee,M,45-59,0
+A & N Islands,2009,Suspected/Illicit Relation,Hr. Secondary/Intermediate/Pre-Universit,No,Self-employed (Business activity),Seperated,M,45-59,0
+A & N Islands,2009,Illness (Aids/STD),Matriculate/Secondary,No,Service (Private),Never Married,M,45-59,0
+A & N Islands,2009,Paralysis,Graduate,No,Professional Activity,Never Married,M,45-59,0
+A & N Islands,2009,Unemployment,Diploma,No,Others (Please Specify),Married,F,60+,0
+A & N Islands,2009,Divorce,Hr. Secondary/Intermediate/Pre-Universit,No,Retired Person,Married,F,60+,0
+A & N Islands,2009,Suspected/Illicit Relation,Graduate,No,Unemployed,Married,F,60+,0
+A & N Islands,2009,Poverty,Matriculate/Secondary,No,Farming/Agriculture Activity,Married,F,60+,0
+A & N Islands,2009,Drug Abuse/Addiction,Diploma,No,House Wife,Married,F,60+,0
+A & N Islands,2009,Death of Dear Person,Hr. Secondary/Intermediate/Pre-Universit,No,Professional Activity,Married,F,60+,0
+A & N Islands,2009,Dowry Dispute,Graduate,No,House Wife,Married,F,60+,0
+A & N Islands,2009,Family Problems,Matriculate/Secondary,No,Others (Please Specify),Married,F,60+,0
+A & N Islands,2009,Ideological Causes/Hero Worshipping,Matriculate/Secondary,No,Service (Government),Married,F,60+,0
+A & N Islands,2009,Cancellation/Non-Settlement of Marriage,Matriculate/Secondary,No,Professional Activity,Married,F,60+,0
+A & N Islands,2009,Physical Abuse (Rape/Incest Etc.),Matriculate/Secondary,No,Others (Please Specify),Married,F,60+,0
+A & N Islands,2009,Other Causes (Please Specity),Diploma,No,Professional Activity,Married,F,60+,0
+A & N Islands,2009,Other Prolonged Illness,Hr. Secondary/Intermediate/Pre-Universit,By Hanging,House Wife,Married,F,60+,1
+A & N Islands,2009,Professional/Career Problem,Hr. Secondary/Intermediate/Pre-Universit,No,Public Sector Undertaking,Never Married,F,60+,0
+A & N Islands,2009,Illegitimate Pregnancy,Matriculate/Secondary,No,Student,Never Married,F,60+,0
+A & N Islands,2009,Love Affairs,Diploma,No,Service (Government),Married,F,60+,0
+A & N Islands,2009,Not having Children(Barrenness/Impotency,Hr. Secondary/Intermediate/Pre-Universit,No,Self-employed (Business activity),Married,F,60+,0
+A & N Islands,2009,Cancer,Matriculate/Secondary,No,Service (Private),Married,F,60+,0
+A & N Islands,2009,Paralysis,Graduate,No,Professional Activity,Married,F,60+,0
+A & N Islands,2009,Illness (Aids/STD),Diploma,No,Others (Please Specify),Married,F,60+,0
+A & N Islands,2009,Property Dispute,Hr. Secondary/Intermediate/Pre-Universit,No,Retired Person,Married,F,60+,0
+A & N Islands,2009,Failure in Examination,Graduate,No,Unemployed,Married,F,60+,0
+A & N Islands,2009,Insanity/Mental Illness,Matriculate/Secondary,No,Farming/Agriculture Activity,Never Married,F,60+,0
+A & N Islands,2009,Causes Not known,Diploma,No,House Wife,Never Married,F,60+,0
+A & N Islands,2009,Fall in Social Reputation,Hr. Secondary/Intermediate/Pre-Universit,No,Professional Activity,Married,F,60+,0
+A & N Islands,2009,Bankruptcy or Sudden change in Economic,Graduate,No,House Wife,Married,F,60+,0
+A & N Islands,2009,Suspected/Illicit Relation,Matriculate/Secondary,No,Others (Please Specify),Married,M,60+,0
+A & N Islands,2009,Not having Children(Barrenness/Impotency,Matriculate/Secondary,No,Service (Government),Married,M,60+,0
+A & N Islands,2009,Dowry Dispute,Matriculate/Secondary,No,Professional Activity,Married,M,60+,0
+A & N Islands,2009,Ideological Causes/Hero Worshipping,Diploma,No,Self-employed (Business activity),Married,M,60+,0
+A & N Islands,2009,Illegitimate Pregnancy,Hr. Secondary/Intermediate/Pre-Universit,No,House Wife,Married,M,60+,0
+A & N Islands,2009,Death of Dear Person,Hr. Secondary/Intermediate/Pre-Universit,No,Retired Person,Never Married,M,60+,0
+A & N Islands,2009,Love Affairs,No Education,By Consuming Other Poison,Service (Private),Never Married,M,60+,1
+A & N Islands,2009,Family Problems,Matriculate/Secondary,No,Service (Government),Married,M,60+,0
+A & N Islands,2009,Cancellation/Non-Settlement of Marriage,Diploma,No,Self-employed (Business activity),Married,M,60+,0
+A & N Islands,2009,Divorce,Hr. Secondary/Intermediate/Pre-Universit,No,Service (Private),Divorcee,M,60+,0
+A & N Islands,2009,Cancer,Graduate,No,Professional Activity,Seperated,M,60+,0
+A & N Islands,2009,Other Prolonged Illness,Middle,By Hanging,"Service (Private) or Farming/Agriculture Activity
+",Never Married,M,60+,3
+A & N Islands,2009,Physical Abuse (Rape/Incest Etc.),Matriculate/Secondary,No,House Wife,Married,M,60+,0
+A & N Islands,2009,Property Dispute,Diploma,No,Professional Activity,Married,M,60+,0
+A & N Islands,2009,Paralysis,Hr. Secondary/Intermediate/Pre-Universit,No,House Wife,Married,M,60+,0
+A & N Islands,2009,Fall in Social Reputation,Graduate,No,Others (Please Specify),Married,M,60+,0
+A & N Islands,2009,Bankruptcy or Sudden change in Economic,Matriculate/Secondary,No,Service (Government),Married,M,60+,0
+A & N Islands,2009,Failure in Examination,No Education,No,Professional Activity,Married,M,60+,0
+A & N Islands,2009,Insanity/Mental Illness,Primary,By Hanging,Service (Government),Married,M,60+,1
+A & N Islands,2009,Poverty,Matriculate/Secondary,No,Service (Government),Married,M,60+,0
+A & N Islands,2009,Other Causes (Please Specity),Diploma,No,Self-employed (Business activity),Married,M,60+,0
+A & N Islands,2009,Unemployment,Hr. Secondary/Intermediate/Pre-Universit,No,Service (Private),Married,M,60+,0
+A & N Islands,2009,Illness (Aids/STD),Diploma,No,Professional Activity,Married,M,60+,0
+A & N Islands,2009,Causes Not known,Primary,By Hanging,Retired Person,Married,M,60+,1
+A & N Islands,2009,Drug Abuse/Addiction,Graduate,No,Unemployed,Married,M,60+,0
+A & N Islands,2009,Professional/Career Problem,Graduate,No,Unemployed,Married,M,60+,0
