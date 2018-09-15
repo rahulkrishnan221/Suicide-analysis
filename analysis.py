@@ -3,7 +3,6 @@ import pandas as pd
 #Reading data
 df=pd.read_csv('data.csv')
 
-
 #Total suicide happend
 print("Total Suicides")
 print(df['Number of suicides'].sum())
@@ -42,3 +41,11 @@ import matplotlib.pyplot as plt
 df.plot('Gender_binary','Number of suicides',kind="scatter")
 plt.show()
 print(df.columns.values)
+#Removing 0 suicides row and forming new dataframe
+df_value=df.where(df['Number of suicides']>0)
+
+#Removing NaN
+df_value=df_value.dropna()
+
+#Main Causes of suicides
+print(df_value['Causes'].unique())
