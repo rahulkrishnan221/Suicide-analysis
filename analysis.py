@@ -31,8 +31,14 @@ print(df["Female_suicide"].sum())
 print("Total Male suicides")
 print(df["Male_suicide"].sum())
 
+#Preprocessing Mapping social status with number dict comprehension
+x={k:v for (k,v) in zip(df['Social_Status'].unique(),[m for m in range(6)])}
+
+#New feature with mapping with number
+df['Social_status_number']=df['Social_Status'].map(x)
+
 
 import matplotlib.pyplot as plt
-df.plot('Gender_binary','Number of suicides')
+df.plot('Gender_binary','Number of suicides',kind="scatter")
 plt.show()
 print(df.columns.values)
