@@ -574,33 +574,33 @@ A & N Islands,2003,Illegitimate Pregnancy,No Education,No,Farming/Agriculture Ac
 A & N Islands,2003,Paralysis,Primary,No,Student,Married,M,0-14,0
 A & N Islands,2003,Family Problems,No Education,No,Farming/Agriculture Activity,Never Married,M,0-14,0
 A & N Islands,2003,Divorce,Middle,No,Student,Divorcee,M,0-14,0
-A & N Islands,2003,Illegitimate Pregnancy,No Education,No,Unemployed,,F,15-29,0
-A & N Islands,2003,Property Dispute,Middle,No,Student,,F,15-29,0
-A & N Islands,2003,Suspected/Illicit Relation,No Education,No,Farming/Agriculture Activity,,F,15-29,0
+A & N Islands,2003,Illegitimate Pregnancy,No Education,No,Unemployed,Widowed/Widower,F,15-29,0
+A & N Islands,2003,Property Dispute,Middle,No,Student,Married,F,15-29,0
+A & N Islands,2003,Suspected/Illicit Relation,No Education,No,Farming/Agriculture Activity,Married,F,15-29,0
 A & N Islands,2003,Death of Dear Person,No Education,Hr. Secondary/Intermediate/Pre-Universit,Self-employed (Business activity),Widowed,F,15-29,1
-A & N Islands,2003,Drug Abuse/Addiction,Graduate,No,Public Sector Undertaking,,F,15-29,0
-A & N Islands,2003,Cancellation/Non-Settlement of Marriage,No Education,No,Self-employed (Business activity),,F,15-29,0
+A & N Islands,2003,Drug Abuse/Addiction,Graduate,No,Public Sector Undertaking,Married,F,15-29,0
+A & N Islands,2003,Cancellation/Non-Settlement of Marriage,No Education,No,Self-employed (Business activity),Married,F,15-29,0
 A & N Islands,2003,Professional/Career Problem,Diploma,Diploma,Unemployed,Never Married,F,15-29,1
-A & N Islands,2003,Love Affairs,Primary,No,Farming/Agriculture Activity,,F,15-29,0
+A & N Islands,2003,Love Affairs,Primary,No,Farming/Agriculture Activity,Married,F,15-29,0
 A & N Islands,2003,Not having Children(Barrenness/Impotency,,By Drowning,House Wife,Married,F,15-29,2
 A & N Islands,2003,Paralysis,Primary,By touching electric wires,Unemployed,Never Married,F,15-29,1
-A & N Islands,2003,Ideological Causes/Hero Worshipping,Middle,No,Self-employed (Business activity),,F,15-29,0
-A & N Islands,2003,Unemployment,Hr. Secondary/Intermediate/Pre-Universit,No,House Wife,,F,15-29,0
-A & N Islands,2003,Dowry Dispute,No Education,No,Student,,F,15-29,0
-A & N Islands,2003,Physical Abuse (Rape/Incest Etc.),No Education,No,Farming/Agriculture Activity,,F,15-29,0
-A & N Islands,2003,Other Prolonged Illness,Diploma,No,House Wife,,F,15-29,0
-A & N Islands,2003,Fall in Social Reputation,No Education,By Over Alcoholism,Self-employed (Business activity),,F,15-29,4
-A & N Islands,2003,Family Problems,No Education,No,Farming/Agriculture Activity,,F,15-29,0
-A & N Islands,2003,Other Causes (Please Specity),No Education,By Machine,Self-employed (Business activity),,F,15-29,9
+A & N Islands,2003,Ideological Causes/Hero Worshipping,Middle,No,Self-employed (Business activity),Married,F,15-29,0
+A & N Islands,2003,Unemployment,Hr. Secondary/Intermediate/Pre-Universit,No,House Wife,Married,F,15-29,0
+A & N Islands,2003,Dowry Dispute,No Education,No,Student,Married,F,15-29,0
+A & N Islands,2003,Physical Abuse (Rape/Incest Etc.),No Education,No,Farming/Agriculture Activity,Married,F,15-29,0
+A & N Islands,2003,Other Prolonged Illness,Diploma,No,House Wife,Married,F,15-29,0
+A & N Islands,2003,Fall in Social Reputation,No Education,By Over Alcoholism,Self-employed (Business activity),Married,F,15-29,4
+A & N Islands,2003,Family Problems,No Education,No,Farming/Agriculture Activity,Never Married,F,15-29,0
+A & N Islands,2003,Other Causes (Please Specity),No Education,By Machine,Self-employed (Business activity),Married,F,15-29,9
 A & N Islands,2003,Causes Not known,Hr. Secondary/Intermediate/Pre-Universit,"By Self Infliction of injury 
-",House Wife,,F,15-29,2
-A & N Islands,2003,Cancer,No Education,No,House Wife,,F,15-29,5
-A & N Islands,2003,Failure in Examination,Primary,No,Farming/Agriculture Activity,,F,15-29,0
-A & N Islands,2003,Poverty,No Education,No,Unemployed,,F,15-29,0
-A & N Islands,2003,Bankruptcy or Sudden change in Economic,,No,Self-employed (Business activity),,F,15-29,0
-A & N Islands,2003,Illness (Aids/STD),Middle,No,Farming/Agriculture Activity,,F,15-29,0
-A & N Islands,2003,Insanity/Mental Illness,No Education,No,House Wife,,F,15-29,0
-A & N Islands,2003,Family Problems,Middle,By Hanging,Service (Private),,F,15-29,3
+",House Wife,Married,F,15-29,2
+A & N Islands,2003,Cancer,No Education,No,House Wife,Married,F,15-29,5
+A & N Islands,2003,Failure in Examination,Primary,No,Farming/Agriculture Activity,Married,F,15-29,0
+A & N Islands,2003,Poverty,No Education,No,Unemployed,Married,F,15-29,0
+A & N Islands,2003,Bankruptcy or Sudden change in Economic,,No,Self-employed (Business activity),Married,F,15-29,0
+A & N Islands,2003,Illness (Aids/STD),Middle,No,Farming/Agriculture Activity,Widowed/Widower,F,15-29,0
+A & N Islands,2003,Insanity/Mental Illness,No Education,No,House Wife,Married,F,15-29,0
+A & N Islands,2003,Family Problems,Middle,By Hanging,Service (Private),Married,F,15-29,3
 A & N Islands,2003,Other Causes (Please Specity),No Education,By Hanging,"Unemployed 
 ",,M,15-29,5
 A & N Islands,2003,Other Prolonged Illness,Hr. Secondary/Intermediate/Pre-Universit,By Jumping from (Other sites),Service (Government),,M,15-29,5
@@ -778,12 +778,12 @@ A & N Islands,2003,Other Causes (Please Specity),No Education,No,Unemployed,,M,6
 A & N Islands,2003,Illness (Aids/STD),No Education,By Consuming Other Poison,Self-employed (Business activity),,M,60+,1
 A & N Islands,2003,Death of Dear Person,No Education,No,Self-employed (Business activity),,M,60+,0
 A & N Islands,2003,Paralysis,"Middle 
-",No,Unemployed,,M,60+,0
-A & N Islands,2003,Professional/Career Problem,No Education,No,Unemployed,,M,60+,0
-A & N Islands,2003,Cancellation/Non-Settlement of Marriage,Primary,No,Farming/Agriculture Activity,,M,60+,0
-A & N Islands,2003,Physical Abuse (Rape/Incest Etc.),No Education,No,Self-employed (Business activity),,M,60+,0
-A & N Islands,2003,Property Dispute,No Education,No,Retired Person,,M,60+,0
-A & N Islands,2003,Drug Abuse/Addiction,Graduate,No,Retired Person,,M,60+,0
+",No,Unemployed,Never Married,M,60+,0
+A & N Islands,2003,Professional/Career Problem,No Education,No,Unemployed,Married,M,60+,0
+A & N Islands,2003,Cancellation/Non-Settlement of Marriage,Primary,No,Farming/Agriculture Activity,Married,M,60+,0
+A & N Islands,2003,Physical Abuse (Rape/Incest Etc.),No Education,No,Self-employed (Business activity),Married,M,60+,0
+A & N Islands,2003,Property Dispute,No Education,No,Retired Person,Married,M,60+,0
+A & N Islands,2003,Drug Abuse/Addiction,Graduate,No,Retired Person,Married,M,60+,0
 A & N Islands,2004,Bankruptcy or Sudden change in Economic,No Education,No,Farming/Agriculture Activity,Married,F,0-14,0
 A & N Islands,2004,Cancellation/Non-Settlement of Marriage,No Education,No,Unemployed,Married,F,0-14,0
 A & N Islands,2004,Physical Abuse (Rape/Incest Etc.),No Education,No,Unemployed,Never Married,F,0-14,0
