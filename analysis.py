@@ -1,7 +1,8 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsRegressor
-
+from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble import RandomForestClassifier
 #Reading data
 df=pd.read_csv('data.csv')
 
@@ -92,6 +93,12 @@ y=df['Number of suicides']
 
 X_train,X_test,y_train,y_test=train_test_split(X,y,random_state=0)
 print(df.isnull().values.any())
-knnreg = KNeighborsRegressor(n_neighbors = 5).fit(X_train, y_train)
-print(knnreg.predict(X_test))
-print(knnreg.score(X_test, y_test))
+#knnreg = KNeighborsRegressor(n_neighbors = 5).fit(X_train, y_train)
+#logicreg= LogisticRegression().fit(X_train,y_train)
+random_forest = RandomForestClassifier(n_estimators=1000).fit(X_train, y_train)
+print(random_forest.predict(X_test))
+print(random_forest.score(X_test, y_test))
+#print(logicreg.predict(X_test))
+#print(logicreg.score(X_test, y_test))
+#print(knnreg.predict(X_test))
+#print(knnreg.score(X_test, y_test))
